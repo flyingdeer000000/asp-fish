@@ -1,0 +1,46 @@
+{
+    "shards": {
+        "logger-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "webconnector-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterrc-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-1": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-2": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-1.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-2.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-1": {
+            "host": "fish-server-memdb-<DB_ENV>-2.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        }
+    },
+    "backend": {
+        "engine": "mongodb",
+        "url": "mongodb://mongodb9999:27017/fishHunter"
+    },
+    "maxPendingTask": 10000,
+    "maxConnection": 100
+}

@@ -1,0 +1,25 @@
+{
+  "args" : {
+    "1": {
+      "0": {"factor": 2, "level": 3},
+      "0.1": {"factor": 2, "level": 3}, "0.2": {"factor": 2, "level": 3}, "0.3": {"factor": 2, "level": 3}, "0.4": {"factor": 2, "level": 3}, "0.5": {"factor": 2, "level": 3},
+      "0.6": {"factor": 2, "level": 3}, "0.7": {"factor": 2, "level": 3}, "0.8": {"factor": 2, "level": 3}, "0.9": {"factor": 2, "level": 3}, "1"  : {"factor": 2, "level": 3},
+      "2"  : {"factor": 2, "level": 3}, "3"  : {"factor": 2, "level": 3}, "4"  : {"factor": 2, "level": 3}, "5"  : {"factor": 2, "level": 3}, "6"  : {"factor": 2, "level": 3},
+      "7"  : {"factor": 2, "level": 3}, "8"  : {"factor": 2, "level": 3}, "9"  : {"factor": 2, "level": 3}, "10" : {"factor": 2, "level": 3}
+    },
+    "2": {
+      "0": {"factor": 2, "level": 3},
+      "1"  : {"factor": 2, "level": 3}, "2"  : {"factor": 2, "level": 3}, "3"  : {"factor": 2, "level": 3}, "4"  : {"factor": 2, "level": 3}, "5"  : {"factor": 2, "level": 3},
+      "6"  : {"factor": 2, "level": 3}, "7"  : {"factor": 2, "level": 3}, "8"  : {"factor": 2, "level": 3}, "9"  : {"factor": 2, "level": 3}, "10" : {"factor": 2, "level": 3},
+      "20" : {"factor": 2, "level": 3}, "30" : {"factor": 2, "level": 3}, "40" : {"factor": 2, "level": 3}, "50" : {"factor": 2, "level": 3}, "60" : {"factor": 2, "level": 3},
+      "70" : {"factor": 2, "level": 3}, "80" : {"factor": 2, "level": 3}, "90" : {"factor": 2, "level": 3}, "100": {"factor": 2, "level": 3}
+    },
+    "3": {
+      "0": {"factor": 2, "level": 3},
+      "10" : {"factor": 2, "level": 3}, "20" : {"factor": 2, "level": 3}, "30" : {"factor": 2, "level": 3}, "40" : {"factor": 2, "level": 3}, "50" : {"factor": 2, "level": 3},
+      "60" : {"factor": 2, "level": 3}, "70" : {"factor": 2, "level": 3}, "80" : {"factor": 2, "level": 3}, "90" : {"factor": 2, "level": 3}, "100": {"factor": 2, "level": 3},
+      "150": {"factor": 2, "level": 3}, "200": {"factor": 2, "level": 3}, "250": {"factor": 2, "level": 3}, "300": {"factor": 2, "level": 3}, "350": {"factor": 2, "level": 3},
+      "400": {"factor": 2, "level": 3}, "450": {"factor": 2, "level": 3}, "500": {"factor": 2, "level": 3}
+    }
+  }
+}

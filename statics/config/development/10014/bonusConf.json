@@ -1,0 +1,224 @@
+{
+  "Fish_200": {
+    "//說明": "大轉盤(三層), 0為往內圈晉級，odds最外圈、extraOdds中圈、ultraOdds最內圈，開獎倍數: 10, 50, 80, 100, 120, 200, 250, 300, 450, 520, 600",
+    "odds": [100, 0, 10, 0, 80, 0, 50, 0],
+    "extraOdds": [120, 300, 0, 200, 250, 0],
+    "ultraOdds": [520, 450, 0],
+    "10": [ {"odds": 10, "extraOdds": 0, "ultraOdds": 0}
+    ],
+    "50": [ {"odds": 50, "extraOdds": 0, "ultraOdds": 0}
+    ],
+    "80": [ {"odds": 80, "extraOdds": 0, "ultraOdds": 0}
+    ],
+    "100": [ {"odds": 100, "extraOdds": 0, "ultraOdds": 0}
+    ],
+    "120": [ {"odds": 0, "extraOdds": 120, "ultraOdds": 0}
+    ],
+    "200": [ {"odds": 0, "extraOdds": 200, "ultraOdds": 0}
+    ],
+    "250": [ {"odds": 0, "extraOdds": 250, "ultraOdds": 0}
+    ],
+    "300": [ {"odds": 0, "extraOdds": 300, "ultraOdds": 0}
+    ],
+    "450": [ {"odds": 0, "extraOdds": 0, "ultraOdds": 450}
+    ],
+    "520": [ {"odds": 0, "extraOdds": 300, "ultraOdds": 520}
+    ],
+    "600": [ {"odds": 0, "extraOdds": 0, "ultraOdds": 0}
+    ]
+  },
+  "Fish_205": {
+    "//說明": "決戰黃金城，30秒內移動準心自動抓魚， 開獎倍數: 10, 30, 60, 90, 100, 120, 150, 180, 200, 210, 240, 270, 300, 330, 360, 390, 400, 420, 450, 500",
+    "odds": { "Fish_014": {"odds": "x10"},
+              "Fish_017": {"odds": "x10-30"},
+              "Fish_019": {"odds": "x10-100"}},
+    "vals": {
+      "10": [
+        {"prob":25,"vals":[{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 10}]}
+      ],
+      "30": [
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 0, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 0, "odd": 10},{"fid": 1, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 1, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 1, "odd": 10},{"fid": 1, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 10},{"fid": 0, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 10},{"fid": 0, "odd": 10},{"fid": 1, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 10},{"fid": 1, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 10},{"fid": 1, "odd": 10},{"fid": 1, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 0, "odd": 10},{"fid": 2, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 2, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 2, "odd": 10},{"fid": 2, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 10},{"fid": 0, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 10},{"fid": 0, "odd": 10},{"fid": 2, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 10},{"fid": 2, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 10},{"fid": 2, "odd": 10},{"fid": 2, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 0, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 0, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 0, "odd": 10},{"fid": 0, "odd": 10}]},
+        {"prob":25,"vals":[{"fid": 0, "odd": 10},{"fid": 0, "odd": 10},{"fid": 0, "odd": 10}]}
+      ],
+      "60": [
+        {"prob":25,"vals":[{"fid": 1, "odd": 20},{"fid": 1, "odd": 20},{"fid": 1, "odd": 20}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 20},{"fid": 2, "odd": 20},{"fid": 1, "odd": 20}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 20},{"fid": 1, "odd": 20},{"fid": 2, "odd": 20}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 20},{"fid": 2, "odd": 20},{"fid": 2, "odd": 20}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 20},{"fid": 1, "odd": 20},{"fid": 1, "odd": 20}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 20},{"fid": 1, "odd": 20},{"fid": 2, "odd": 20}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 20},{"fid": 2, "odd": 20},{"fid": 1, "odd": 20}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 20},{"fid": 2, "odd": 20},{"fid": 2, "odd": 20}]}
+      ],
+      "90": [
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 1, "odd": 30},{"fid": 1, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 1, "odd": 30},{"fid": 2, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 2, "odd": 30},{"fid": 1, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 2, "odd": 30},{"fid": 2, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 30},{"fid": 1, "odd": 30},{"fid": 1, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 30},{"fid": 1, "odd": 30},{"fid": 2, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 30},{"fid": 2, "odd": 30},{"fid": 1, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 30},{"fid": 2, "odd": 30},{"fid": 2, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 1, "odd": 30},{"fid": 1, "odd": 30}]}
+      ],
+      "100": [
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 1, "odd": 30},{"fid": 2, "odd": 40}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 2, "odd": 40},{"fid": 1, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 40},{"fid": 1, "odd": 30},{"fid": 1, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 1, "odd": 20},{"fid": 2, "odd": 50}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 2, "odd": 50},{"fid": 1, "odd": 20}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 50},{"fid": 1, "odd": 30},{"fid": 1, "odd": 20}]}
+      ],
+      "120": [
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 1, "odd": 30},{"fid": 2, "odd": 60}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 2, "odd": 60},{"fid": 1, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 60},{"fid": 1, "odd": 30},{"fid": 1, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 20},{"fid": 1, "odd": 30},{"fid": 2, "odd": 70}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 20},{"fid": 2, "odd": 70},{"fid": 1, "odd": 30}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 1, "odd": 20},{"fid": 1, "odd": 30}]}
+      ],
+      "150": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 50},{"fid": 2, "odd": 50},{"fid": 2, "odd": 50}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 40},{"fid": 2, "odd": 50},{"fid": 2, "odd": 60}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 40},{"fid": 2, "odd": 60},{"fid": 2, "odd": 50}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 60},{"fid": 2, "odd": 40},{"fid": 2, "odd": 50}]},
+        {"prob":25,"vals":[{"fid": 1, "odd": 30},{"fid": 2, "odd": 60},{"fid": 2, "odd": 60}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 60},{"fid": 1, "odd": 30},{"fid": 2, "odd": 60}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 60},{"fid": 2, "odd": 60},{"fid": 1, "odd": 30}]}
+      ],
+      "180": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 60},{"fid": 2, "odd": 60},{"fid": 2, "odd": 60}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 50},{"fid": 2, "odd": 60},{"fid": 2, "odd": 70}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 50},{"fid": 2, "odd": 70},{"fid": 2, "odd": 60}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 50},{"fid": 2, "odd": 60}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 40},{"fid": 2, "odd": 70},{"fid": 2, "odd": 70}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 40},{"fid": 2, "odd": 70}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 70},{"fid": 2, "odd": 40}]}
+      ],
+      "200": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 60},{"fid": 2, "odd": 70},{"fid": 2, "odd": 70}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 60},{"fid": 2, "odd": 70}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 70},{"fid": 2, "odd": 60}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 50},{"fid": 2, "odd": 70},{"fid": 2, "odd": 80}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 50},{"fid": 2, "odd": 80}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 80},{"fid": 2, "odd": 50}]}
+      ],
+      "210": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 70},{"fid": 2, "odd": 70}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 60},{"fid": 2, "odd": 70},{"fid": 2, "odd": 80}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 60},{"fid": 2, "odd": 80}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 80},{"fid": 2, "odd": 60}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 50},{"fid": 2, "odd": 80},{"fid": 2, "odd": 80}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 80},{"fid": 2, "odd": 50},{"fid": 2, "odd": 80}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 80},{"fid": 2, "odd": 80},{"fid": 2, "odd": 50}]}
+      ],
+      "240": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 80},{"fid": 2, "odd": 80},{"fid": 2, "odd": 80}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 80},{"fid": 2, "odd": 90}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 80},{"fid": 2, "odd": 70},{"fid": 2, "odd": 90}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 80},{"fid": 2, "odd": 90},{"fid": 2, "odd": 70}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 60},{"fid": 2, "odd": 90},{"fid": 2, "odd": 90}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 90},{"fid": 2, "odd": 60},{"fid": 2, "odd": 90}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 90},{"fid": 2, "odd": 90},{"fid": 2, "odd": 60}]}
+      ],
+      "270": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 90},{"fid": 2, "odd": 90},{"fid": 2, "odd": 90}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 80},{"fid": 2, "odd": 90},{"fid": 2, "odd": 100}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 90},{"fid": 2, "odd": 80},{"fid": 2, "odd": 100}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 90},{"fid": 2, "odd": 100},{"fid": 2, "odd": 80}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 70},{"fid": 2, "odd": 100},{"fid": 2, "odd": 100}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 100},{"fid": 2, "odd": 70},{"fid": 2, "odd": 100}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 100},{"fid": 2, "odd": 100},{"fid": 2, "odd": 70}]}
+      ],
+      "300": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 100},{"fid": 2, "odd": 100},{"fid": 2, "odd": 100}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 90},{"fid": 2, "odd": 100},{"fid": 2, "odd": 110}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 100},{"fid": 2, "odd": 90},{"fid": 2, "odd": 110}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 100},{"fid": 2, "odd": 110},{"fid": 2, "odd": 90}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 80},{"fid": 2, "odd": 110},{"fid": 2, "odd": 110}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 110},{"fid": 2, "odd": 80},{"fid": 2, "odd": 110}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 110},{"fid": 2, "odd": 110},{"fid": 2, "odd": 80}]}
+      ],
+      "330": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 110},{"fid": 2, "odd": 110},{"fid": 2, "odd": 110}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 100},{"fid": 2, "odd": 110},{"fid": 2, "odd": 120}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 110},{"fid": 2, "odd": 100},{"fid": 2, "odd": 120}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 110},{"fid": 2, "odd": 120},{"fid": 2, "odd": 100}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 90},{"fid": 2, "odd": 120},{"fid": 2, "odd": 120}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 120},{"fid": 2, "odd": 90},{"fid": 2, "odd": 120}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 120},{"fid": 2, "odd": 120},{"fid": 2, "odd": 90}]}
+      ],
+      "360": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 120},{"fid": 2, "odd": 120},{"fid": 2, "odd": 120}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 110},{"fid": 2, "odd": 120},{"fid": 2, "odd": 130}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 120},{"fid": 2, "odd": 110},{"fid": 2, "odd": 130}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 120},{"fid": 2, "odd": 130},{"fid": 2, "odd": 110}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 100},{"fid": 2, "odd": 130},{"fid": 2, "odd": 130}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 130},{"fid": 2, "odd": 100},{"fid": 2, "odd": 130}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 130},{"fid": 2, "odd": 130},{"fid": 2, "odd": 100}]}
+      ],
+      "390": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 130},{"fid": 2, "odd": 130},{"fid": 2, "odd": 130}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 120},{"fid": 2, "odd": 130},{"fid": 2, "odd": 140}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 130},{"fid": 2, "odd": 120},{"fid": 2, "odd": 140}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 130},{"fid": 2, "odd": 140},{"fid": 2, "odd": 120}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 110},{"fid": 2, "odd": 140},{"fid": 2, "odd": 140}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 140},{"fid": 2, "odd": 110},{"fid": 2, "odd": 140}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 140},{"fid": 2, "odd": 140},{"fid": 2, "odd": 110}]}
+      ],
+      "400": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 130},{"fid": 2, "odd": 130},{"fid": 2, "odd": 140}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 130},{"fid": 2, "odd": 140},{"fid": 2, "odd": 130}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 140},{"fid": 2, "odd": 130},{"fid": 2, "odd": 130}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 120},{"fid": 2, "odd": 140},{"fid": 2, "odd": 140}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 140},{"fid": 2, "odd": 120},{"fid": 2, "odd": 140}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 140},{"fid": 2, "odd": 140},{"fid": 2, "odd": 120}]}
+      ],
+      "420": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 140},{"fid": 2, "odd": 140},{"fid": 2, "odd": 140}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 130},{"fid": 2, "odd": 140},{"fid": 2, "odd": 150}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 140},{"fid": 2, "odd": 130},{"fid": 2, "odd": 150}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 140},{"fid": 2, "odd": 150},{"fid": 2, "odd": 130}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 120},{"fid": 2, "odd": 150},{"fid": 2, "odd": 150}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 150},{"fid": 2, "odd": 120},{"fid": 2, "odd": 150}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 150},{"fid": 2, "odd": 150},{"fid": 2, "odd": 120}]}
+      ],
+      "450": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 150},{"fid": 2, "odd": 150},{"fid": 2, "odd": 150}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 140},{"fid": 2, "odd": 150},{"fid": 2, "odd": 160}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 150},{"fid": 2, "odd": 140},{"fid": 2, "odd": 160}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 150},{"fid": 2, "odd": 160},{"fid": 2, "odd": 140}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 130},{"fid": 2, "odd": 160},{"fid": 2, "odd": 160}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 160},{"fid": 2, "odd": 130},{"fid": 2, "odd": 160}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 160},{"fid": 2, "odd": 160},{"fid": 2, "odd": 130}]}
+      ],
+      "500": [
+        {"prob":25,"vals":[{"fid": 2, "odd": 160},{"fid": 2, "odd": 170},{"fid": 2, "odd": 170}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 170},{"fid": 2, "odd": 160},{"fid": 2, "odd": 170}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 170},{"fid": 2, "odd": 170},{"fid": 2, "odd": 160}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 150},{"fid": 2, "odd": 170},{"fid": 2, "odd": 180}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 170},{"fid": 2, "odd": 150},{"fid": 2, "odd": 180}]},
+        {"prob":25,"vals":[{"fid": 2, "odd": 170},{"fid": 2, "odd": 180},{"fid": 2, "odd": 150}]}
+      ]
+    }
+  }
+}

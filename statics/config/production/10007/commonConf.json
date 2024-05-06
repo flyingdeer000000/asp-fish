@@ -1,0 +1,23 @@
+{
+  "autoplayList":
+  [ "Fish_000", "Fish_001", "Fish_002", "Fish_003", "Fish_004", "Fish_005", "Fish_006", "Fish_007", "Fish_008", "Fish_009", "Fish_010",
+    "Fish_011", "Fish_012", "Fish_013", "Fish_014", "Fish_015", "Fish_016", "Fish_017", "Fish_018", "Fish_019",
+    "Fish_100", "Fish_101",
+    "Fish_300", "Fish_301", "Fish_302", "Fish_303"
+  ],
+  "BroadcastHighOdds": 200,
+  "speed": {
+    "//子彈飛行速度": 0,
+    "bulletFly": {
+      "normalBulletSpeed": 1500,
+      "bazookaBulletSpeed": 1800,
+      "drillBulletSpeed": 3000
+    },
+    "//子彈發射速度": 0,
+    "fire": {
+      "normalFireSpeed": 150,
+      "autoFireSpeed": 150,
+      "bazookaFireSpeed": 150
+    }
+  }
+}

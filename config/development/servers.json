@@ -1,0 +1,47 @@
+{
+    "@describe": {
+        "@development": "配置測試環境各種 type 的服務器",
+        "@gate": "gate 服務器",
+        "@connector": "服務器接收客戶端的連接請求",
+        "@webconnector": "webconnector 服務器",
+        "@logger": "log 服務器",
+        "@fishHunter": "fishHunter 服務器",
+        "@fishHunterBackend": "fishHunterBackend 服務器",
+        "@fishHunterCollider": "fishHunterCollider 服務器，現已拔除",
+        "@fishHunterRC": "fishHunterRC 服務器",
+        "@id": "應用服務器 id",
+        "@host": "應用服務器 host，IT 會抓此字串替換為該環境的參數(若有調整)",
+        "@port": "應用服務器 port，IT 會抓此字串替換為該環境的參數(若有調整)",
+        "@clientPort": "前端服務器的客戶端請求監聽端口",
+        "@frontend": "是否是前端服務器",
+        "@args": "node/v8 引擎配置的參數"
+    },
+
+    "gate": [
+        {"id": "gate-server", "host": "127.0.0.1", "port": 53010, "clientPort": 8017, "frontend": true,"args": ""}
+    ],
+    "connector": [
+        {
+            "id": "connector-server-1",
+            "clientProtocol": "ws",
+            "host": "ws://127.0.0.1:8018",
+            "clientHost": "127.0.0.1",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": true,
+            "args": ""
+        }
+    ],
+    "fishHunter": [
+        {"id": "fishHunter-server-1", "host": "127.0.0.1", "port": 54300, "args": ""}
+    ],
+    "fishHunterBackend": [
+        {"id": "fishHunterBackend-server-1", "host": "127.0.0.1", "port": 54400, "args": ""}
+    ],
+    "fishHunterRC": [
+        {"id": "fishHunterRC-server-1", "host": "127.0.0.1", "port": 54700, "args": ""}
+    ],
+    "logger": [
+        {"id": "logger-server-1", "host": "127.0.0.1", "port": 54600, "args": ""}
+    ]
+}

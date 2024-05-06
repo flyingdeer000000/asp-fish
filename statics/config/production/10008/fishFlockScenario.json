@@ -1,0 +1,6527 @@
+{
+    "FS_1-0_o1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_011"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_134",
+                "repeat": 7,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_133",
+                "repeat": 11,
+                "interval": 1.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_132",
+                "repeat": 11,
+                "interval": 1.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_009"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_134",
+                "repeat": 7,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o5": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_132",
+                "repeat": 10,
+                "interval": 1.42,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o6": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_133",
+                "repeat": 10,
+                "interval": 1.42,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o7": {
+        "layer_id_0": {
+            "types": [
+                "Fish_010"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_134",
+                "repeat": 7,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o8": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_132",
+                "repeat": 9,
+                "interval": 1.42,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o9": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_133",
+                "repeat": 9,
+                "interval": 1.42,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o10": {
+        "layer_id_0": {
+            "types": [
+                "Fish_013"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_134",
+                "repeat": 6,
+                "interval": 1.75,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o11": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_132",
+                "repeat": 6,
+                "interval": 1.9,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_o12": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_133",
+                "repeat": 6,
+                "interval": 1.9,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-0_w1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_300"
+            ],
+            "points": [
+                {
+                    "x": 0.22522522522490362,
+                    "y": 2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_28",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_w2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_301"
+            ],
+            "points": [
+                {
+                    "x": 0.22522522522490362,
+                    "y": 2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_25",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_w3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_303"
+            ],
+            "points": [
+                {
+                    "x": 0.22522522522490362,
+                    "y": 2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_64",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_w4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_302"
+            ],
+            "points": [
+                {
+                    "x": 0.22522522522490362,
+                    "y": 2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_47",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_b1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_200"
+            ],
+            "points": [
+                {
+                    "x": 0.22522522522490362,
+                    "y": 2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_25",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_b2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_201"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 223
+                }
+            ],
+            "anim": {
+                "path": "bz_id_24",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_r1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_100"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 70
+                }
+            ],
+            "anim": {
+                "path": "bz_id_83",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_r2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_102"
+            ],
+            "points": [
+                {
+                    "x": 2.4999999999997726,
+                    "y": -4.549549549549511
+                }
+            ],
+            "anim": {
+                "path": "bz_id_47",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_73",
+                "repeat": 5,
+                "interval": 2.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 150
+                }
+            ],
+            "anim": {
+                "path": "bz_id_36",
+                "repeat": 2,
+                "interval": 3.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_23",
+                "repeat": 3,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 135
+                }
+            ],
+            "anim": {
+                "path": "bz_id_30",
+                "repeat": 4,
+                "interval": 3.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n5": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": -137,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_16",
+                "repeat": 3,
+                "interval": 6.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n6": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": 120,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_14",
+                "repeat": 5,
+                "interval": 4.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n7": {
+        "layer_id_0": {
+            "types": [
+                "Fish_017"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_42",
+                "repeat": 1,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_017"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 120
+                }
+            ],
+            "anim": {
+                "path": "bz_id_88",
+                "repeat": 1,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n8": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": -175,
+                    "y": -60
+                }
+            ],
+            "anim": {
+                "path": "bz_id_111",
+                "repeat": 3,
+                "interval": 5.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n9": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 127
+                }
+            ],
+            "anim": {
+                "path": "bz_id_85",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n10": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 122,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_19",
+                "repeat": 2,
+                "interval": 5.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.0000000000002,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n11": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_95",
+                "repeat": 2,
+                "interval": 4.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n12": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 243
+                }
+            ],
+            "anim": {
+                "path": "bz_id_99",
+                "repeat": 3,
+                "interval": 4.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n13": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 73
+                }
+            ],
+            "anim": {
+                "path": "bz_id_3",
+                "repeat": 3,
+                "interval": 3.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n14": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 80
+                }
+            ],
+            "anim": {
+                "path": "bz_id_109",
+                "repeat": 3,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n15": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": 265,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_108",
+                "repeat": 3,
+                "interval": 5.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n16": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -130
+                }
+            ],
+            "anim": {
+                "path": "bz_id_98",
+                "repeat": 3,
+                "interval": 4.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n17": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": -526,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_9",
+                "repeat": 2,
+                "interval": 5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n18": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 75
+                }
+            ],
+            "anim": {
+                "path": "bz_id_104",
+                "repeat": 6,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n19": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": -125,
+                    "y": 20
+                }
+            ],
+            "anim": {
+                "path": "bz_id_78",
+                "repeat": 3,
+                "interval": 2.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n20": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": -260,
+                    "y": -1.0779082177161854
+                }
+            ],
+            "anim": {
+                "path": "bz_id_69",
+                "repeat": 3,
+                "interval": 5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n21": {
+        "layer_id_0": {
+            "types": [
+                "Fish_015"
+            ],
+            "points": [
+                {
+                    "x": 120,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_8",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n22": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_67",
+                "repeat": 4,
+                "interval": 5.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n23": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 35,
+                    "y": -133
+                }
+            ],
+            "anim": {
+                "path": "bz_id_134",
+                "repeat": 1,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n24": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": -124,
+                    "y": 60
+                }
+            ],
+            "anim": {
+                "path": "bz_id_28",
+                "repeat": 5,
+                "interval": 3.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n25": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 182,
+                    "y": -2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_7",
+                "repeat": 4,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n26": {
+        "layer_id_0": {
+            "types": [
+                "Fish_011"
+            ],
+            "points": [
+                {
+                    "x": 140,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_24",
+                "repeat": 3,
+                "interval": 7.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n27": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": -6.599099099099249,
+                    "y": 2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_63",
+                "repeat": 2,
+                "interval": 3.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n28": {
+        "layer_id_0": {
+            "types": [
+                "Fish_019"
+            ],
+            "points": [
+                {
+                    "x": -0.8104886769963286,
+                    "y": 1.2038140643624047
+                }
+            ],
+            "anim": {
+                "path": "bz_id_42",
+                "repeat": 1,
+                "interval": 6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n29": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": -5.3148345784418325,
+                    "y": -1.0779082177161854
+                }
+            ],
+            "anim": {
+                "path": "bz_id_13",
+                "repeat": 3,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n30": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": -375,
+                    "y": -123
+                }
+            ],
+            "anim": {
+                "path": "bz_id_89",
+                "repeat": 3,
+                "interval": 3.7,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n31": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": -109,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_5",
+                "repeat": 3,
+                "interval": 3.4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n32": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": -62,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_54",
+                "repeat": 3,
+                "interval": 3.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n33": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": -0.8104886769963286,
+                    "y": 3.6114421930871003
+                }
+            ],
+            "anim": {
+                "path": "bz_id_63",
+                "repeat": 0,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n34": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0.22522522522490362,
+                    "y": 2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_132",
+                "repeat": 3,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n35": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 645,
+                    "y": 94
+                }
+            ],
+            "anim": {
+                "path": "bz_id_4",
+                "repeat": 3,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n36": {
+        "layer_id_0": {
+            "types": [
+                "Fish_016"
+            ],
+            "points": [
+                {
+                    "x": -120,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_28",
+                "repeat": 2,
+                "interval": 5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n37": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": -238,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_82",
+                "repeat": 2,
+                "interval": 7.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n38": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": -5.3148345784418325,
+                    "y": -1.0779082177161854
+                }
+            ],
+            "anim": {
+                "path": "bz_id_42",
+                "repeat": 5,
+                "interval": 2.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n39": {
+        "layer_id_0": {
+            "types": [
+                "Fish_017"
+            ],
+            "points": [
+                {
+                    "x": 138,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_61",
+                "repeat": 2,
+                "interval": 9.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n40": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": -5.3148345784418325,
+                    "y": 54
+                }
+            ],
+            "anim": {
+                "path": "bz_id_24",
+                "repeat": 3,
+                "interval": 4.7,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n41": {
+        "layer_id_0": {
+            "types": [
+                "Fish_010"
+            ],
+            "points": [
+                {
+                    "x": 109,
+                    "y": 123
+                }
+            ],
+            "anim": {
+                "path": "bz_id_81",
+                "repeat": 2,
+                "interval": 4.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n42": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": -324,
+                    "y": 83
+                }
+            ],
+            "anim": {
+                "path": "bz_id_89",
+                "repeat": 6,
+                "interval": 3.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n43": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": -342,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_13",
+                "repeat": 4,
+                "interval": 5.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n44": {
+        "layer_id_0": {
+            "types": [
+                "Fish_013"
+            ],
+            "points": [
+                {
+                    "x": -175,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_7",
+                "repeat": 2,
+                "interval": 5.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n45": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0.22522522522490362,
+                    "y": 2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_32",
+                "repeat": 2,
+                "interval": 6.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n46": {
+        "layer_id_0": {
+            "types": [
+                "Fish_009"
+            ],
+            "points": [
+                {
+                    "x": -186,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_15",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n47": {
+        "layer_id_0": {
+            "types": [
+                "Fish_013"
+            ],
+            "points": [
+                {
+                    "x": 0.22522522522490362,
+                    "y": 83
+                }
+            ],
+            "anim": {
+                "path": "bz_id_43",
+                "repeat": 1,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n48": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": 132,
+                    "y": 2.2747747747747553
+                }
+            ],
+            "anim": {
+                "path": "bz_id_108",
+                "repeat": 1,
+                "interval": 3.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n49": {
+        "layer_id_0": {
+            "types": [
+                "Fish_016"
+            ],
+            "points": [
+                {
+                    "x": -162,
+                    "y": -155
+                }
+            ],
+            "anim": {
+                "path": "bz_id_60",
+                "repeat": 1,
+                "interval": 5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-0_n50": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 66
+                }
+            ],
+            "anim": {
+                "path": "bz_id_24",
+                "repeat": 3,
+                "interval": 5.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_o1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_137",
+                "repeat": 9,
+                "interval": 1.25,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_138",
+                "repeat": 6,
+                "interval": 1.93,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_o2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_136",
+                "repeat": 10,
+                "interval": 1.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_135",
+                "repeat": 6,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_2": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_139",
+                "repeat": 5,
+                "interval": 2.45,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_o3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_137",
+                "repeat": 5,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_138",
+                "repeat": 4,
+                "interval": 2.65,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_o4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_136",
+                "repeat": 6,
+                "interval": 1.76,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_135",
+                "repeat": 4,
+                "interval": 2.7,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_2": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_139",
+                "repeat": 3,
+                "interval": 3.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_o5": {
+        "layer_id_1": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_137",
+                "repeat": 6,
+                "interval": 1.56,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_2": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_138",
+                "repeat": 5,
+                "interval": 1.76,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_o6": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_136",
+                "repeat": 6,
+                "interval": 1.4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_135",
+                "repeat": 4,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_2": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_139",
+                "repeat": 3,
+                "interval": 2.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_o7": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_136",
+                "repeat": 6,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_135",
+                "repeat": 4,
+                "interval": 2.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_2": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_139",
+                "repeat": 3,
+                "interval": 3.9,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_o8": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_137",
+                "repeat": 6,
+                "interval": 1.86,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_138",
+                "repeat": 4,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_o9": {
+        "layer_id_0": {
+            "types": [
+                "Fish_017"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_137",
+                "repeat": 3,
+                "interval": 3.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_017"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_139",
+                "repeat": 2,
+                "interval": 5.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_o10": {
+        "layer_id_0": {
+            "types": [
+                "Fish_017"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_136",
+                "repeat": 3,
+                "interval": 3.1,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_017"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_135",
+                "repeat": 2,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_2": {
+            "types": [
+                "Fish_017"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_138",
+                "repeat": 2,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-1_w1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_300"
+            ],
+            "points": [
+                {
+                    "x": -61,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_24",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_w2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_303"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_25",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_w3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_302"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_58",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_w4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_301"
+            ],
+            "points": [
+                {
+                    "x": 101,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_47",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_w5": {
+        "layer_id_0": {
+            "types": [
+                "Fish_300"
+            ],
+            "points": [
+                {
+                    "x": 61,
+                    "y": -15
+                }
+            ],
+            "anim": {
+                "path": "bz_id_20",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_b1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_200"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_117",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1493.375,
+                "y": 895.375
+            }
+        }
+    },
+    "FS_1-1_b2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_201"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 35
+                }
+            ],
+            "anim": {
+                "path": "bz_id_101",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1493.375,
+                "y": 895.375
+            }
+        }
+    },
+    "FS_1-1_r1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_102"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_50",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1493.375,
+                "y": 895.375
+            }
+        }
+    },
+    "FS_1-1_r2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_100"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_47",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1493.375,
+                "y": 895.375
+            }
+        }
+    },
+    "FS_1-1_n1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_28",
+                "repeat": 3,
+                "interval": 4.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 1
+                }
+            ],
+            "anim": {
+                "path": "bz_id_36",
+                "repeat": 2,
+                "interval": 3.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_80",
+                "repeat": 3,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_17",
+                "repeat": 3,
+                "interval": 3.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n5": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_3",
+                "repeat": 2,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n6": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_25",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n7": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_16",
+                "repeat": 2,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n8": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 115
+                }
+            ],
+            "anim": {
+                "path": "bz_id_20",
+                "repeat": 2,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n9": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": -161,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_14",
+                "repeat": 3,
+                "interval": 3.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n10": {
+        "layer_id_0": {
+            "types": [
+                "Fish_018"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 185
+                }
+            ],
+            "anim": {
+                "path": "bz_id_136",
+                "repeat": 1,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n11": {
+        "layer_id_0": {
+            "types": [
+                "Fish_013"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_33",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n12": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 161,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_124",
+                "repeat": 4,
+                "interval": 3.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n13": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 115
+                }
+            ],
+            "anim": {
+                "path": "bz_id_118",
+                "repeat": 5,
+                "interval": 3.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n14": {
+        "layer_id_0": {
+            "types": [
+                "Fish_011"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_114",
+                "repeat": 2,
+                "interval": 5.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n15": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 115
+                }
+            ],
+            "anim": {
+                "path": "bz_id_85",
+                "repeat": 2,
+                "interval": 3.7,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n16": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_37",
+                "repeat": 3,
+                "interval": 2.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n17": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": -80,
+                    "y": 138
+                }
+            ],
+            "anim": {
+                "path": "bz_id_36",
+                "repeat": 3,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n18": {
+        "layer_id_0": {
+            "types": [
+                "Fish_016"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": -105
+                }
+            ],
+            "anim": {
+                "path": "bz_id_79",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n19": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -55
+                }
+            ],
+            "anim": {
+                "path": "bz_id_43",
+                "repeat": 4,
+                "interval": 2.9,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n20": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": 94,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_14",
+                "repeat": 3,
+                "interval": 4.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n21": {
+        "layer_id_0": {
+            "types": [
+                "Fish_016"
+            ],
+            "points": [
+                {
+                    "x": -87,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_71",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n22": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_28",
+                "repeat": 2,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n23": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": -281,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_6",
+                "repeat": 3,
+                "interval": 4.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n24": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_83",
+                "repeat": 3,
+                "interval": 3.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n25": {
+        "layer_id_0": {
+            "types": [
+                "Fish_009"
+            ],
+            "points": [
+                {
+                    "x": -61,
+                    "y": -55
+                }
+            ],
+            "anim": {
+                "path": "bz_id_45",
+                "repeat": 2,
+                "interval": 4.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n26": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_42",
+                "repeat": 2,
+                "interval": 3.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n27": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_37",
+                "repeat": 2,
+                "interval": 3.4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n28": {
+        "layer_id_0": {
+            "types": [
+                "Fish_010"
+            ],
+            "points": [
+                {
+                    "x": -131,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_94",
+                "repeat": 2,
+                "interval": 5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n29": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": -50,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_108",
+                "repeat": 3,
+                "interval": 3.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n30": {
+        "layer_id_0": {
+            "types": [
+                "Fish_013"
+            ],
+            "points": [
+                {
+                    "x": -78,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_15",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n31": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 321,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_10",
+                "repeat": 3,
+                "interval": 2.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n32": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": -151,
+                    "y": 25
+                }
+            ],
+            "anim": {
+                "path": "bz_id_17",
+                "repeat": 2,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n33": {
+        "layer_id_0": {
+            "types": [
+                "Fish_015"
+            ],
+            "points": [
+                {
+                    "x": -231,
+                    "y": 80
+                }
+            ],
+            "anim": {
+                "path": "bz_id_115",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n34": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_63",
+                "repeat": 3,
+                "interval": 3.4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n35": {
+        "layer_id_0": {
+            "types": [
+                "Fish_009"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 46
+                }
+            ],
+            "anim": {
+                "path": "bz_id_73",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n36": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": -81,
+                    "y": 115
+                }
+            ],
+            "anim": {
+                "path": "bz_id_21",
+                "repeat": 4,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n37": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": -161,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_95",
+                "repeat": 3,
+                "interval": 4.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n38": {
+        "layer_id_0": {
+            "types": [
+                "Fish_013"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_107",
+                "repeat": 2,
+                "interval": 7.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n39": {
+        "layer_id_0": {
+            "types": [
+                "Fish_011"
+            ],
+            "points": [
+                {
+                    "x": 321,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_5",
+                "repeat": 2,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n40": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -100
+                }
+            ],
+            "anim": {
+                "path": "bz_id_20",
+                "repeat": 3,
+                "interval": 3.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n41": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_128",
+                "repeat": 3,
+                "interval": 5.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n42": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_61",
+                "repeat": 4,
+                "interval": 2.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n43": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 120
+                }
+            ],
+            "anim": {
+                "path": "bz_id_74",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n44": {
+        "layer_id_0": {
+            "types": [
+                "Fish_016"
+            ],
+            "points": [
+                {
+                    "x": 110,
+                    "y": -115
+                }
+            ],
+            "anim": {
+                "path": "bz_id_25",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n45": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_85",
+                "repeat": 4,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n46": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_8",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n47": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 140
+                }
+            ],
+            "anim": {
+                "path": "bz_id_58",
+                "repeat": 6,
+                "interval": 2.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n48": {
+        "layer_id_0": {
+            "types": [
+                "Fish_010"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 25
+                }
+            ],
+            "anim": {
+                "path": "bz_id_41",
+                "repeat": 2,
+                "interval": 3.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n49": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 35
+                }
+            ],
+            "anim": {
+                "path": "bz_id_17",
+                "repeat": 2,
+                "interval": 2.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-1_n50": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_13",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_o1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 1.7506134627719803,
+                    "y": 471.8661933429428
+                },
+                {
+                    "x": -199.31553270715608,
+                    "y": 459.8622443178724
+                },
+                {
+                    "x": -395.3800334499713,
+                    "y": 421.84973907181643
+                },
+                {
+                    "x": -565.435977971801,
+                    "y": 354.8276903485071
+                },
+                {
+                    "x": -730.4902770665179,
+                    "y": 250.7934654645643
+                },
+                {
+                    "x": -842.5271346338409,
+                    "y": 108.74673533456541
+                },
+                {
+                    "x": -869.5360199402492,
+                    "y": -73.31315821233443
+                },
+                {
+                    "x": -791.5103512772921,
+                    "y": -209.35791382979812
+                },
+                {
+                    "x": -658.466582916096,
+                    "y": -320.39444231169864
+                },
+                {
+                    "x": -496.4132710776465,
+                    "y": -397.41978188923326
+                },
+                {
+                    "x": -313.35304844532413,
+                    "y": -448.4365652457821
+                },
+                {
+                    "x": -122.29019312962146,
+                    "y": -478.4464378084579
+                },
+                {
+                    "x": 73.77430761319397,
+                    "y": -479.44676689388046
+                },
+                {
+                    "x": 276.8411119539669,
+                    "y": -460.4405142708525
+                },
+                {
+                    "x": 460.90166367171196,
+                    "y": -410.42405999972607
+                },
+                {
+                    "x": 637.9599117914993,
+                    "y": -334.39904950761405
+                },
+                {
+                    "x": 779.0063128360755,
+                    "y": -226.36350828198113
+                },
+                {
+                    "x": 869.0359305241029,
+                    "y": -85.3171072374048
+                },
+                {
+                    "x": 859.0326396698777,
+                    "y": 105.74574807829788
+                },
+                {
+                    "x": 760.0000602130474,
+                    "y": 237.7891873540715
+                },
+                {
+                    "x": 610.951026485091,
+                    "y": 337.8220958963241
+                },
+                {
+                    "x": 420.8885002548109,
+                    "y": 414.8474354738587
+                },
+                {
+                    "x": 211.81972140150265,
+                    "y": 462.8632315741402
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": -103.28394050659335,
+                    "y": 378.8355883986478
+                },
+                {
+                    "x": -142.296774838072,
+                    "y": 312.8138687607609
+                },
+                {
+                    "x": -164.30401471736764,
+                    "y": 226.78556741442367
+                },
+                {
+                    "x": 94.78121840706694,
+                    "y": 376.8349302278027
+                },
+                {
+                    "x": -182.30993825497308,
+                    "y": -155.3401432169817
+                },
+                {
+                    "x": -163.30368563194497,
+                    "y": -248.3707481612767
+                },
+                {
+                    "x": -136.2948003255367,
+                    "y": -340.4010240201492
+                },
+                {
+                    "x": 141.79668542192576,
+                    "y": 312.8138687607609
+                },
+                {
+                    "x": 166.80491255748893,
+                    "y": 225.78523832900112
+                },
+                {
+                    "x": 177.80853249713664,
+                    "y": -161.34211772951687
+                },
+                {
+                    "x": 160.80293804495363,
+                    "y": -251.3717354175443
+                },
+                {
+                    "x": 135.79471090939046,
+                    "y": -341.40135310557173
+                },
+                {
+                    "x": 90.77990206537675,
+                    "y": -412.42471817057117
+                },
+                {
+                    "x": -94.28097873779075,
+                    "y": -413.42504725599366
+                },
+                {
+                    "x": 180.8095197534044,
+                    "y": 133.7549624701286
+                },
+                {
+                    "x": -181.3096091695504,
+                    "y": 138.75660789724122
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_016"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_010"
+            ],
+            "points": [
+                {
+                    "x": -349.36489552053513,
+                    "y": 297.808932479423
+                },
+                {
+                    "x": -493.412283821379,
+                    "y": 151.76088600773414
+                },
+                {
+                    "x": -523.4221563840548,
+                    "y": -40.302298393391084
+                },
+                {
+                    "x": -473.40570211292845,
+                    "y": -209.35791382979812
+                },
+                {
+                    "x": -331.3589719829296,
+                    "y": -322.39510048254374
+                },
+                {
+                    "x": 358.86809695861416,
+                    "y": 283.80432528350775
+                },
+                {
+                    "x": 484.90956172185247,
+                    "y": 168.76648045991715
+                },
+                {
+                    "x": 523.9223960533311,
+                    "y": -14.29374217240536
+                },
+                {
+                    "x": 465.9033090988246,
+                    "y": -200.3549520609954
+                },
+                {
+                    "x": 310.8523008583329,
+                    "y": -335.39937859303654
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": -40.2632081249742,
+                    "y": 469.8655351720977
+                },
+                {
+                    "x": -284.34350496807076,
+                    "y": 445.85763712195717
+                },
+                {
+                    "x": -493.412283821379,
+                    "y": 390.8395374237182
+                },
+                {
+                    "x": -664.4685574286311,
+                    "y": 312.8138687607609
+                },
+                {
+                    "x": -802.5139712169398,
+                    "y": 187.77273308294514
+                },
+                {
+                    "x": -878.5389817090519,
+                    "y": 18.717117646537986
+                },
+                {
+                    "x": -829.5228565233481,
+                    "y": -167.34409224205206
+                },
+                {
+                    "x": -692.4777718204618,
+                    "y": -296.386544261558
+                },
+                {
+                    "x": -526.4231436403223,
+                    "y": -382.41484560789536
+                },
+                {
+                    "x": -322.35601021412685,
+                    "y": -448.4365652457821
+                },
+                {
+                    "x": -98.28229507948072,
+                    "y": -481.4474250647255
+                },
+                {
+                    "x": 148.7989890198835,
+                    "y": -475.4454505521904
+                },
+                {
+                    "x": 381.87566592333224,
+                    "y": -437.43294530613434
+                },
+                {
+                    "x": 580.9411539224152,
+                    "y": -361.40793481402227
+                },
+                {
+                    "x": 735.9921621629069,
+                    "y": -263.3756844426146
+                },
+                {
+                    "x": 851.0300069864973,
+                    "y": -128.3312579105734
+                },
+                {
+                    "x": 874.0375759512156,
+                    "y": 66.73291374681935
+                },
+                {
+                    "x": 770.0033510672727,
+                    "y": 225.78523832900112
+                },
+                {
+                    "x": 609.9506973996683,
+                    "y": 340.82308315259183
+                },
+                {
+                    "x": 430.89179110903615,
+                    "y": 411.84644821759116
+                },
+                {
+                    "x": 184.81083609509437,
+                    "y": 468.86520608667524
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o5": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": -338.3612755808873,
+                    "y": 321.81683052956373
+                },
+                {
+                    "x": -446.3968168065202,
+                    "y": 237.7891873540715
+                },
+                {
+                    "x": -514.4191946152521,
+                    "y": 100.74410265118524
+                },
+                {
+                    "x": -529.42413089659,
+                    "y": -53.30657650388389
+                },
+                {
+                    "x": -467.40372760039327,
+                    "y": -217.3605465131784
+                },
+                {
+                    "x": -340.3619337517323,
+                    "y": -319.39411322627615
+                },
+                {
+                    "x": 349.8651351898113,
+                    "y": 312.8138687607609
+                },
+                {
+                    "x": 463.9026509279795,
+                    "y": 222.78425107273358
+                },
+                {
+                    "x": 522.9220669679084,
+                    "y": 61.731268319706714
+                },
+                {
+                    "x": 513.9191051991058,
+                    "y": -97.32105626247517
+                },
+                {
+                    "x": 453.8993600737542,
+                    "y": -227.36383736740368
+                },
+                {
+                    "x": 351.8657933606564,
+                    "y": -323.39542956796623
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o6": {
+        "layer_id_0": {
+            "types": [
+                "Fish_019"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": -106.28492776286089,
+                    "y": 382.8369047403378
+                },
+                {
+                    "x": -158.30204020483234,
+                    "y": 301.8102488211132
+                },
+                {
+                    "x": -193.31355819462078,
+                    "y": 216
+                },
+                {
+                    "x": 108.78582560298241,
+                    "y": 372.8336138861125
+                },
+                {
+                    "x": 165.80458347206627,
+                    "y": 292.80728705231036
+                },
+                {
+                    "x": 205.81774688896758,
+                    "y": 195.7753657663253
+                },
+                {
+                    "x": -191.31290002377568,
+                    "y": -191.35199029219268
+                },
+                {
+                    "x": -146.29809117976197,
+                    "y": -280
+                },
+                {
+                    "x": -97.28196599405828,
+                    "y": -371
+                },
+                {
+                    "x": 195.8144560347423,
+                    "y": -191.35199029219268
+                },
+                {
+                    "x": 156.80162170326366,
+                    "y": -280
+                },
+                {
+                    "x": 114.78780011551748,
+                    "y": -371
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o7": {
+        "layer_id_0": {
+            "types": [
+                "Fish_018"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o8": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": -8.25267739145329,
+                    "y": 469.8655351720977
+                },
+                {
+                    "x": -175.30763465701534,
+                    "y": 462.8632315741402
+                },
+                {
+                    "x": -322.35601021412685,
+                    "y": 439.85566260942187
+                },
+                {
+                    "x": -455.3997785753229,
+                    "y": 400.84282827794345
+                },
+                {
+                    "x": -563.4353198009559,
+                    "y": 360.8296648610424
+                },
+                {
+                    "x": -671.4708610265888,
+                    "y": 295.8082743085781
+                },
+                {
+                    "x": -766.5021241417289,
+                    "y": 219.78326381646593
+                },
+                {
+                    "x": -836.5251601213058,
+                    "y": 130.75397521386105
+                },
+                {
+                    "x": -872.5370071965167,
+                    "y": 0.7111941089325455
+                },
+                {
+                    "x": -838.5258182921508,
+                    "y": -133.33290333768605
+                },
+                {
+                    "x": -767.5024532271514,
+                    "y": -227.36383736740368
+                },
+                {
+                    "x": -653.4649374889833,
+                    "y": -320.39444231169864
+                },
+                {
+                    "x": -527.4234727257449,
+                    "y": -379.41385835162777
+                },
+                {
+                    "x": -380.3750971686334,
+                    "y": -436.4326162207118
+                },
+                {
+                    "x": -223.3234307572966,
+                    "y": -467.44281786881015
+                },
+                {
+                    "x": -67.27209343138247,
+                    "y": -482.44775415014806
+                },
+                {
+                    "x": 99.78286383417958,
+                    "y": -481.4474250647255
+                },
+                {
+                    "x": 247.83156847671353,
+                    "y": -464.44183061254256
+                },
+                {
+                    "x": 381.87566592333224,
+                    "y": -434.43195804986675
+                },
+                {
+                    "x": 507.91713068657054,
+                    "y": -392.41813646212063
+                },
+                {
+                    "x": 619.9539882538936,
+                    "y": -340.4010240201492
+                },
+                {
+                    "x": 712.9845931981888,
+                    "y": -283.38226615106515
+                },
+                {
+                    "x": 794.0112491174134,
+                    "y": -211.35857200064322
+                },
+                {
+                    "x": 856.0316524136099,
+                    "y": -115.32697980008061
+                },
+                {
+                    "x": 884.0408668054408,
+                    "y": -2.28979314733499
+                },
+                {
+                    "x": 854.030994242765,
+                    "y": 115.74903893252315
+                },
+                {
+                    "x": 785.0082873486106,
+                    "y": 211.78063113308576
+                },
+                {
+                    "x": 696.9793278314282,
+                    "y": 288.8059707106204
+                },
+                {
+                    "x": 576.939837580725,
+                    "y": 357.8286776047746
+                },
+                {
+                    "x": 445.89672739037405,
+                    "y": 405.8444737050561
+                },
+                {
+                    "x": 301.8493390895301,
+                    "y": 448.8586243782247
+                },
+                {
+                    "x": 153.80063444699613,
+                    "y": 465.8642188304077
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o9": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": -299.34844124940867,
+                    "y": 349.82604492139444
+                },
+                {
+                    "x": -430.3915514397597,
+                    "y": 259.796427233367
+                },
+                {
+                    "x": -515.4195237006745,
+                    "y": 94.74212813865006
+                },
+                {
+                    "x": -518.4205109569422,
+                    "y": -77.31447455402463
+                },
+                {
+                    "x": -455.3997785753229,
+                    "y": -236.3667991362064
+                },
+                {
+                    "x": -313.35304844532413,
+                    "y": -344.4023403618393
+                },
+                {
+                    "x": 298.84835183326254,
+                    "y": 345.82472857970447
+                },
+                {
+                    "x": 435.8934365361488,
+                    "y": 264.79807266047965
+                },
+                {
+                    "x": 516.9200924553734,
+                    "y": 91.74114088238252
+                },
+                {
+                    "x": 519.9210797116409,
+                    "y": -77.31447455402463
+                },
+                {
+                    "x": 442.8957401341063,
+                    "y": -238.36745730705138
+                },
+                {
+                    "x": 316.854275370868,
+                    "y": -346.40299853268436
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o10": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": -76.27505520018508,
+                    "y": 408.8454609613236
+                },
+                {
+                    "x": -121.2898640441988,
+                    "y": 364.83098120273235
+                },
+                {
+                    "x": -143.29710392349443,
+                    "y": 304.8112360773807
+                },
+                {
+                    "x": -161.30302746109987,
+                    "y": 244.7914909520291
+                },
+                {
+                    "x": -175.30763465701534,
+                    "y": 177.76944222871987
+                },
+                {
+                    "x": 75.77496578403884,
+                    "y": 411.84644821759116
+                },
+                {
+                    "x": 120.78977462805256,
+                    "y": 367.8319684589999
+                },
+                {
+                    "x": 148.7989890198835,
+                    "y": 307.81222333364826
+                },
+                {
+                    "x": 166.80491255748893,
+                    "y": 246.7921491228742
+                },
+                {
+                    "x": 178.8088615825593,
+                    "y": 181.77075857040995
+                },
+                {
+                    "x": -182.30993825497308,
+                    "y": -152.33915596071415
+                },
+                {
+                    "x": -167.30500197363517,
+                    "y": -217.3605465131784
+                },
+                {
+                    "x": -154.30072386314237,
+                    "y": -286.38325340733275
+                },
+                {
+                    "x": -127.29183855673409,
+                    "y": -350.40431487437445
+                },
+                {
+                    "x": -83.27735879814281,
+                    "y": -415.42570542683876
+                },
+                {
+                    "x": 97.78220566333448,
+                    "y": -416.42603451226125
+                },
+                {
+                    "x": 127.79207822601029,
+                    "y": -353.40530213064204
+                },
+                {
+                    "x": 151.79997627615103,
+                    "y": -287.38358249275524
+                },
+                {
+                    "x": 166.80491255748893,
+                    "y": -223.36252102571348
+                },
+                {
+                    "x": 180.8095197534044,
+                    "y": -154.33981413155914
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o11": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 331.8592116522059,
+                    "y": 439.85566260942187
+                },
+                {
+                    "x": 178.8088615825593,
+                    "y": 463.8635606595626
+                },
+                {
+                    "x": 24.758182427490055,
+                    "y": 474.8671805992103
+                },
+                {
+                    "x": -137.29512941095936,
+                    "y": 468.86520608667524
+                },
+                {
+                    "x": -283.3431758826483,
+                    "y": 447.85829529280204
+                },
+                {
+                    "x": -442.3955004648301,
+                    "y": 408.8454609613236
+                },
+                {
+                    "x": -556.4330162029981,
+                    "y": 363.8306521173099
+                },
+                {
+                    "x": -662.467899257786,
+                    "y": 306.8118942482258
+                },
+                {
+                    "x": -761.5004787146163,
+                    "y": 238.78951643949404
+                },
+                {
+                    "x": -833.5241728650382,
+                    "y": 142.75792423893142
+                },
+                {
+                    "x": -850.5297673172212,
+                    "y": -112.32599254381307
+                },
+                {
+                    "x": -772.504098654264,
+                    "y": -230.3648246236712
+                },
+                {
+                    "x": -667.4695446848987,
+                    "y": -305.38950603036074
+                },
+                {
+                    "x": -559.4340034592658,
+                    "y": -368.41023841197995
+                },
+                {
+                    "x": -431.3918805251823,
+                    "y": -415.42570542683876
+                },
+                {
+                    "x": -182.30993825497308,
+                    "y": -472.4444632959228
+                },
+                {
+                    "x": -26.25860092905873,
+                    "y": -481.4474250647255
+                },
+                {
+                    "x": 138.79569816565822,
+                    "y": -476.4457796376129
+                },
+                {
+                    "x": 300.84901000410764,
+                    "y": -452.43788158747225
+                },
+                {
+                    "x": 441.89541104868385,
+                    "y": -416.42603451226125
+                },
+                {
+                    "x": 556.9332558722745,
+                    "y": -373.4118838390926
+                },
+                {
+                    "x": 868.0356014386805,
+                    "y": 79.73719185731215
+                },
+                {
+                    "x": 812.0171726550191,
+                    "y": 180.7704294849874
+                },
+                {
+                    "x": 712.9845931981888,
+                    "y": 279.80300894181755
+                },
+                {
+                    "x": 607.9500392288235,
+                    "y": 342.8237413234367
+                },
+                {
+                    "x": 474.9062708676272,
+                    "y": 394.84085376540816
+                },
+                {
+                    "x": 751.9974275296672,
+                    "y": -247.37041907585422
+                },
+                {
+                    "x": 832.0237543634696,
+                    "y": -158.34113047324922
+                },
+                {
+                    "x": 875.037905036638,
+                    "y": -43.30328564965862
+                },
+                {
+                    "x": -878.5389817090519,
+                    "y": 27.72007941534082
+                },
+                {
+                    "x": -317.3543647870142,
+                    "y": -449.43689433120466
+                },
+                {
+                    "x": 655.9658353291047,
+                    "y": -320.39444231169864
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o12": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": -232.32639252609943,
+                    "y": 402.8434864487883
+                },
+                {
+                    "x": -326.35732655581694,
+                    "y": 363.8306521173099
+                },
+                {
+                    "x": -403.38266613335156,
+                    "y": 297.808932479423
+                },
+                {
+                    "x": -460.40142400243553,
+                    "y": 222.78425107273358
+                },
+                {
+                    "x": -502.4152455901817,
+                    "y": 133.7549624701286
+                },
+                {
+                    "x": -532.4251181528575,
+                    "y": 28.720408500763256
+                },
+                {
+                    "x": -520.4211691277872,
+                    "y": -79.31513272486961
+                },
+                {
+                    "x": -485.4096511379987,
+                    "y": -194.35297754846022
+                },
+                {
+                    "x": -359.3681863747604,
+                    "y": -358.4069475577547
+                },
+                {
+                    "x": -259.3352778325076,
+                    "y": -398.42011097465576
+                },
+                {
+                    "x": -430.3915514397597,
+                    "y": -275.3796334676849
+                },
+                {
+                    "x": 230,
+                    "y": 397.8418410216757
+                },
+                {
+                    "x": 333.859869823051,
+                    "y": 364.83098120273235
+                },
+                {
+                    "x": 409.88488031516295,
+                    "y": 289.8062997960428
+                },
+                {
+                    "x": 472.9056126967821,
+                    "y": 201.7773402788605
+                },
+                {
+                    "x": 516.9200924553734,
+                    "y": 96.74278630949516
+                },
+                {
+                    "x": 529.9243705658662,
+                    "y": -7.291438574447625
+                },
+                {
+                    "x": 519.9210797116409,
+                    "y": -119.32829614177069
+                },
+                {
+                    "x": 480.9082453801625,
+                    "y": -209.35791382979812
+                },
+                {
+                    "x": 426.89047476734595,
+                    "y": -292.3852279198679
+                },
+                {
+                    "x": 346.8641479335438,
+                    "y": -359.4072766431772
+                },
+                {
+                    "x": 232,
+                    "y": -385
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o13": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": -74.27439702934021,
+                    "y": 418.8487518155489
+                },
+                {
+                    "x": -118.28887678793126,
+                    "y": 366.83163937357745
+                },
+                {
+                    "x": -149.29907843602973,
+                    "y": 297.808932479423
+                },
+                {
+                    "x": -164.30401471736764,
+                    "y": 225.78523832900112
+                },
+                {
+                    "x": -181.3096091695504,
+                    "y": 142.75792423893142
+                },
+                {
+                    "x": 73.77430761319397,
+                    "y": 418.8487518155489
+                },
+                {
+                    "x": 123.79076188432032,
+                    "y": 364.83098120273235
+                },
+                {
+                    "x": 147.79865993446083,
+                    "y": 292.80728705231036
+                },
+                {
+                    "x": 166.80491255748893,
+                    "y": 217.78260564562095
+                },
+                {
+                    "x": 181.80984883882684,
+                    "y": 139.75693698266377
+                },
+                {
+                    "x": -185.3109255112406,
+                    "y": -124.32994156888333
+                },
+                {
+                    "x": -172.3066474007478,
+                    "y": -202.3556102318405
+                },
+                {
+                    "x": -157.3017111194099,
+                    "y": -280.38127889479756
+                },
+                {
+                    "x": -125.29118038588899,
+                    "y": -356.40628938690963
+                },
+                {
+                    "x": -65.27143526053737,
+                    "y": -416.42603451226125
+                },
+                {
+                    "x": 72.7739785277713,
+                    "y": -412.42471817057117
+                },
+                {
+                    "x": 121.79010371347522,
+                    "y": -356.40628938690963
+                },
+                {
+                    "x": 151.79997627615103,
+                    "y": -281.3816079802201
+                },
+                {
+                    "x": 172.806887070024,
+                    "y": -205.35659748810804
+                },
+                {
+                    "x": 184.81083609509437,
+                    "y": -128.3312579105734
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_o14": {
+        "layer_id_0": {
+            "types": [
+                "Fish_009"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_140",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260.4146100691016,
+                "y": 760
+            }
+        }
+    },
+    "FS_1-2_w1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_301"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_33",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_w2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_303"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_116",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_w3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_300"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_89",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_w4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_302"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_20",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_w5": {
+        "layer_id_0": {
+            "types": [
+                "Fish_303"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_9",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_w6": {
+        "layer_id_0": {
+            "types": [
+                "Fish_303"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_21",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_b1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_200"
+            ],
+            "points": [
+                {
+                    "x": 215,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_116",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_b2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_201"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_71",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_r1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_102"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_8",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_r2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_100"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_59",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1493.375,
+                "y": 895.375
+            }
+        }
+    },
+    "FS_1-2_r3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_100"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_6",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_r4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_102"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_47",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n1": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_71",
+                "repeat": 3,
+                "interval": 5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -178
+                }
+            ],
+            "anim": {
+                "path": "bz_id_92",
+                "repeat": 3,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n2": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_78",
+                "repeat": 4,
+                "interval": 5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_011"
+            ],
+            "points": [
+                {
+                    "x": -150,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_14",
+                "repeat": 2,
+                "interval": 9,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n3": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 350,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_96",
+                "repeat": 4,
+                "interval": 4.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n4": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_1",
+                "repeat": 2,
+                "interval": 5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n5": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": -525,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_7",
+                "repeat": 3,
+                "interval": 3.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n6": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_139",
+                "repeat": 5,
+                "interval": 5.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n7": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 121,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_83",
+                "repeat": 2,
+                "interval": 4.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n8": {
+        "layer_id_0": {
+            "types": [
+                "Fish_014"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 1
+                }
+            ],
+            "anim": {
+                "path": "bz_id_38",
+                "repeat": 2,
+                "interval": 7,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_42",
+                "repeat": 3,
+                "interval": 3.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n9": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": 120,
+                    "y": -62
+                }
+            ],
+            "anim": {
+                "path": "bz_id_17",
+                "repeat": 2,
+                "interval": 4.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n10": {
+        "layer_id_0": {
+            "types": [
+                "Fish_009"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 50
+                }
+            ],
+            "anim": {
+                "path": "bz_id_136",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n11": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": 150,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_25",
+                "repeat": 5,
+                "interval": 3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n12": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": -220,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_89",
+                "repeat": 2,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n13": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": 1,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_98",
+                "repeat": 2,
+                "interval": 6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n14": {
+        "layer_id_0": {
+            "types": [
+                "Fish_016"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -110
+                }
+            ],
+            "anim": {
+                "path": "bz_id_4",
+                "repeat": 2,
+                "interval": 8.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n15": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": -161,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_64",
+                "repeat": 3,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n16": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 115
+                }
+            ],
+            "anim": {
+                "path": "bz_id_49",
+                "repeat": 2,
+                "interval": 6.7,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n17": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -312
+                }
+            ],
+            "anim": {
+                "path": "bz_id_90",
+                "repeat": 3,
+                "interval": 3.7,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n18": {
+        "layer_id_0": {
+            "types": [
+                "Fish_010"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 168
+                }
+            ],
+            "anim": {
+                "path": "bz_id_17",
+                "repeat": 2,
+                "interval": 5.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n19": {
+        "layer_id_0": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": -315,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_10",
+                "repeat": 3,
+                "interval": 5.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n20": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -115
+                }
+            ],
+            "anim": {
+                "path": "bz_id_37",
+                "repeat": 2,
+                "interval": 3.4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n21": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 161,
+                    "y": -315
+                }
+            ],
+            "anim": {
+                "path": "bz_id_20",
+                "repeat": 2,
+                "interval":4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n22": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": -111,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_13",
+                "repeat": 4,
+                "interval": 3.4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n23": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": -100,
+                    "y": -140
+                }
+            ],
+            "anim": {
+                "path": "bz_id_79",
+                "repeat": 4,
+                "interval": 3.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n24": {
+        "layer_id_0": {
+            "types": [
+                "Fish_009"
+            ],
+            "points": [
+                {
+                    "x": 410,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_103",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n25": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 148
+                }
+            ],
+            "anim": {
+                "path": "bz_id_17",
+                "repeat": 5,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n26": {
+        "layer_id_0": {
+            "types": [
+                "Fish_013"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": -150
+                }
+            ],
+            "anim": {
+                "path": "bz_id_31",
+                "repeat": 3,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n27": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 361,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_16",
+                "repeat": 3,
+                "interval": 4.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n28": {
+        "layer_id_0": {
+            "types": [
+                "Fish_011"
+            ],
+            "points": [
+                {
+                    "x": -312,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_106",
+                "repeat": 3,
+                "interval": 6.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n29": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": -420,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_12",
+                "repeat": 2,
+                "interval": 3.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n30": {
+        "layer_id_0": {
+            "types": [
+                "Fish_010"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -150
+                }
+            ],
+            "anim": {
+                "path": "bz_id_42",
+                "repeat": 2,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n31": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_37",
+                "repeat": 3,
+                "interval": 4.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n32": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_17",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n33": {
+        "layer_id_0": {
+            "types": [
+                "Fish_013"
+            ],
+            "points": [
+                {
+                    "x": 161,
+                    "y": 1.0756123535675215
+                }
+            ],
+            "anim": {
+                "path": "bz_id_13",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n34": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+
+            "anim": {
+                "path": "bz_id_71",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n35": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -130
+                }
+            ],
+            "anim": {
+                "path": "bz_id_9",
+                "repeat": 3,
+                "interval": 4.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n36": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": 156
+                }
+            ],
+            "anim": {
+                "path": "bz_id_1",
+                "repeat": 3,
+                "interval": 4,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n37": {
+        "layer_id_0": {
+            "types": [
+                "Fish_004"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 105
+                }
+            ],
+            "anim": {
+                "path": "bz_id_85",
+                "repeat": 4,
+                "interval": 3.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n38": {
+        "layer_id_0": {
+            "types": [
+                "Fish_015"
+            ],
+            "points": [
+                {
+                    "x": 0.61767838125661,
+                    "y": -125
+                }
+            ],
+            "anim": {
+                "path": "bz_id_90",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n39": {
+        "layer_id_0": {
+            "types": [
+                "Fish_008"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_30",
+                "repeat": 2,
+                "interval": 5.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n40": {
+        "layer_id_0": {
+            "types": [
+                "Fish_011"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_19",
+                "repeat": 2,
+                "interval": 6.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n41": {
+        "layer_id_0": {
+            "types": [
+                "Fish_002"
+            ],
+            "points": [
+                {
+                    "x": -421,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_139",
+                "repeat": 4,
+                "interval": 5.3,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n42": {
+        "layer_id_0": {
+            "types": [
+                "Fish_005"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 1
+                }
+            ],
+            "anim": {
+                "path": "bz_id_1",
+                "repeat": 2,
+                "interval": 3.8,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n43": {
+        "layer_id_0": {
+            "types": [
+                "Fish_017"
+            ],
+            "points": [
+                {
+                    "x": 412,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_103",
+                "repeat": 1,
+                "interval": 6.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n44": {
+        "layer_id_0": {
+            "types": [
+                "Fish_003"
+            ],
+            "points": [
+                {
+                    "x": 81,
+                    "y": -65
+                }
+            ],
+            "anim": {
+                "path": "bz_id_24",
+                "repeat": 4,
+                "interval": 2.9,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        },
+        "layer_id_1": {
+            "types": [
+                "Fish_006"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": -245
+                }
+            ],
+            "anim": {
+                "path": "bz_id_8",
+                "repeat": 3,
+                "interval": 5.6,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n45": {
+        "layer_id_0": {
+            "types": [
+                "Fish_019"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_42",
+                "repeat": 1,
+                "interval": 0,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n46": {
+        "layer_id_0": {
+            "types": [
+                "Fish_000"
+            ],
+            "points": [
+                {
+                    "x": -45,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_13",
+                "repeat": 5,
+                "interval": 3.2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n47": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 1
+                }
+            ],
+            "anim": {
+                "path": "bz_id_110",
+                "repeat": 3,
+                "interval": 5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n48": {
+        "layer_id_0": {
+            "types": [
+                "Fish_001"
+            ],
+            "points": [
+                {
+                    "x": -123,
+                    "y": 120
+                }
+            ],
+            "anim": {
+                "path": "bz_id_33",
+                "repeat": 3,
+                "interval": 5.5,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n49": {
+        "layer_id_0": {
+            "types": [
+                "Fish_007"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "anim": {
+                "path": "bz_id_71",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    },
+    "FS_1-2_n50": {
+        "layer_id_0": {
+            "types": [
+                "Fish_012"
+            ],
+            "points": [
+                {
+                    "x": 0,
+                    "y": 75
+                }
+            ],
+            "anim": {
+                "path": "bz_id_3",
+                "repeat": 1,
+                "interval": 2,
+                "rate": 1,
+                "mode": "normal"
+            },
+            "anchor": {
+                "x": 1260,
+                "y": 1010
+            }
+        }
+    }
+}

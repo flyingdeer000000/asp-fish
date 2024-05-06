@@ -1,0 +1,1987 @@
+{
+    "logger": [
+        {
+            "id": "logger-server-0",
+            "host": "fish-server-logger-<DB_ENV>-0.fish-server-logger-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54600,
+            "args": ""
+        }
+    ],
+    "webconnector": [
+        {
+            "id": "webconnector-server-0",
+            "host": "fish-server-webconnector-<DB_ENV>-0.fish-server-webconnector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53300,
+            "clientPort": 8090,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "webconnector-server-1",
+            "host": "fish-server-webconnector-<DB_ENV>-1.fish-server-webconnector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53300,
+            "clientPort": 8090,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "webconnector-server-2",
+            "host": "fish-server-webconnector-<DB_ENV>-2.fish-server-webconnector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53300,
+            "clientPort": 8090,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "webconnector-server-3",
+            "host": "fish-server-webconnector-<DB_ENV>-3.fish-server-webconnector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53300,
+            "clientPort": 8090,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "webconnector-server-4",
+            "host": "fish-server-webconnector-<DB_ENV>-4.fish-server-webconnector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53300,
+            "clientPort": 8090,
+            "frontend": "true",
+            "args": ""
+        }
+    ],
+    "fishHunterrc": [
+        {
+            "id": "fishHunterrc-server-0",
+            "host": "fish-server-fishHunterrc-<DB_ENV>-0.fish-server-fishHunterrc-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54700,
+            "args": ""
+        }
+    ],
+    "connector": [
+        {
+            "id": "connector-server-0",
+            "host": "fish-server-connector-<DB_ENV>-0.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-1",
+            "host": "fish-server-connector-<DB_ENV>-1.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-2",
+            "host": "fish-server-connector-<DB_ENV>-2.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-3",
+            "host": "fish-server-connector-<DB_ENV>-3.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-4",
+            "host": "fish-server-connector-<DB_ENV>-4.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-5",
+            "host": "fish-server-connector-<DB_ENV>-5.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-6",
+            "host": "fish-server-connector-<DB_ENV>-6.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-7",
+            "host": "fish-server-connector-<DB_ENV>-7.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-8",
+            "host": "fish-server-connector-<DB_ENV>-8.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-9",
+            "host": "fish-server-connector-<DB_ENV>-9.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-10",
+            "host": "fish-server-connector-<DB_ENV>-10.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-11",
+            "host": "fish-server-connector-<DB_ENV>-11.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-12",
+            "host": "fish-server-connector-<DB_ENV>-12.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-13",
+            "host": "fish-server-connector-<DB_ENV>-13.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-14",
+            "host": "fish-server-connector-<DB_ENV>-14.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-15",
+            "host": "fish-server-connector-<DB_ENV>-15.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-16",
+            "host": "fish-server-connector-<DB_ENV>-16.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-17",
+            "host": "fish-server-connector-<DB_ENV>-17.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-18",
+            "host": "fish-server-connector-<DB_ENV>-18.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-19",
+            "host": "fish-server-connector-<DB_ENV>-19.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-20",
+            "host": "fish-server-connector-<DB_ENV>-20.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-21",
+            "host": "fish-server-connector-<DB_ENV>-21.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-22",
+            "host": "fish-server-connector-<DB_ENV>-22.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-23",
+            "host": "fish-server-connector-<DB_ENV>-23.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-24",
+            "host": "fish-server-connector-<DB_ENV>-24.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-25",
+            "host": "fish-server-connector-<DB_ENV>-25.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-26",
+            "host": "fish-server-connector-<DB_ENV>-26.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-27",
+            "host": "fish-server-connector-<DB_ENV>-27.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-28",
+            "host": "fish-server-connector-<DB_ENV>-28.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-29",
+            "host": "fish-server-connector-<DB_ENV>-29.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-30",
+            "host": "fish-server-connector-<DB_ENV>-30.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-31",
+            "host": "fish-server-connector-<DB_ENV>-31.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-32",
+            "host": "fish-server-connector-<DB_ENV>-32.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-33",
+            "host": "fish-server-connector-<DB_ENV>-33.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-34",
+            "host": "fish-server-connector-<DB_ENV>-34.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-35",
+            "host": "fish-server-connector-<DB_ENV>-35.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-36",
+            "host": "fish-server-connector-<DB_ENV>-36.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-37",
+            "host": "fish-server-connector-<DB_ENV>-37.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-38",
+            "host": "fish-server-connector-<DB_ENV>-38.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-39",
+            "host": "fish-server-connector-<DB_ENV>-39.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-40",
+            "host": "fish-server-connector-<DB_ENV>-40.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-41",
+            "host": "fish-server-connector-<DB_ENV>-41.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-42",
+            "host": "fish-server-connector-<DB_ENV>-42.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-43",
+            "host": "fish-server-connector-<DB_ENV>-43.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-44",
+            "host": "fish-server-connector-<DB_ENV>-44.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-45",
+            "host": "fish-server-connector-<DB_ENV>-45.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-46",
+            "host": "fish-server-connector-<DB_ENV>-46.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-47",
+            "host": "fish-server-connector-<DB_ENV>-47.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-48",
+            "host": "fish-server-connector-<DB_ENV>-48.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-49",
+            "host": "fish-server-connector-<DB_ENV>-49.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-50",
+            "host": "fish-server-connector-<DB_ENV>-50.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-51",
+            "host": "fish-server-connector-<DB_ENV>-51.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-52",
+            "host": "fish-server-connector-<DB_ENV>-52.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-53",
+            "host": "fish-server-connector-<DB_ENV>-53.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-54",
+            "host": "fish-server-connector-<DB_ENV>-54.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-55",
+            "host": "fish-server-connector-<DB_ENV>-55.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-56",
+            "host": "fish-server-connector-<DB_ENV>-56.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-57",
+            "host": "fish-server-connector-<DB_ENV>-57.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-58",
+            "host": "fish-server-connector-<DB_ENV>-58.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-59",
+            "host": "fish-server-connector-<DB_ENV>-59.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-60",
+            "host": "fish-server-connector-<DB_ENV>-60.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-61",
+            "host": "fish-server-connector-<DB_ENV>-61.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-62",
+            "host": "fish-server-connector-<DB_ENV>-62.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-63",
+            "host": "fish-server-connector-<DB_ENV>-63.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-64",
+            "host": "fish-server-connector-<DB_ENV>-64.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-65",
+            "host": "fish-server-connector-<DB_ENV>-65.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-66",
+            "host": "fish-server-connector-<DB_ENV>-66.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-67",
+            "host": "fish-server-connector-<DB_ENV>-67.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-68",
+            "host": "fish-server-connector-<DB_ENV>-68.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-69",
+            "host": "fish-server-connector-<DB_ENV>-69.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-70",
+            "host": "fish-server-connector-<DB_ENV>-70.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-71",
+            "host": "fish-server-connector-<DB_ENV>-71.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-72",
+            "host": "fish-server-connector-<DB_ENV>-72.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-73",
+            "host": "fish-server-connector-<DB_ENV>-73.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-74",
+            "host": "fish-server-connector-<DB_ENV>-74.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-75",
+            "host": "fish-server-connector-<DB_ENV>-75.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-76",
+            "host": "fish-server-connector-<DB_ENV>-76.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-77",
+            "host": "fish-server-connector-<DB_ENV>-77.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-78",
+            "host": "fish-server-connector-<DB_ENV>-78.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-79",
+            "host": "fish-server-connector-<DB_ENV>-79.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-80",
+            "host": "fish-server-connector-<DB_ENV>-80.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-81",
+            "host": "fish-server-connector-<DB_ENV>-81.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-82",
+            "host": "fish-server-connector-<DB_ENV>-82.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-83",
+            "host": "fish-server-connector-<DB_ENV>-83.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-84",
+            "host": "fish-server-connector-<DB_ENV>-84.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-85",
+            "host": "fish-server-connector-<DB_ENV>-85.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-86",
+            "host": "fish-server-connector-<DB_ENV>-86.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-87",
+            "host": "fish-server-connector-<DB_ENV>-87.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-88",
+            "host": "fish-server-connector-<DB_ENV>-88.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-89",
+            "host": "fish-server-connector-<DB_ENV>-89.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-90",
+            "host": "fish-server-connector-<DB_ENV>-90.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-91",
+            "host": "fish-server-connector-<DB_ENV>-91.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-92",
+            "host": "fish-server-connector-<DB_ENV>-92.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-93",
+            "host": "fish-server-connector-<DB_ENV>-93.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-94",
+            "host": "fish-server-connector-<DB_ENV>-94.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-95",
+            "host": "fish-server-connector-<DB_ENV>-95.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-96",
+            "host": "fish-server-connector-<DB_ENV>-96.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-97",
+            "host": "fish-server-connector-<DB_ENV>-97.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-98",
+            "host": "fish-server-connector-<DB_ENV>-98.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-99",
+            "host": "fish-server-connector-<DB_ENV>-99.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-100",
+            "host": "fish-server-connector-<DB_ENV>-100.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-101",
+            "host": "fish-server-connector-<DB_ENV>-101.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-102",
+            "host": "fish-server-connector-<DB_ENV>-102.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-103",
+            "host": "fish-server-connector-<DB_ENV>-103.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-104",
+            "host": "fish-server-connector-<DB_ENV>-104.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-105",
+            "host": "fish-server-connector-<DB_ENV>-105.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-106",
+            "host": "fish-server-connector-<DB_ENV>-106.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-107",
+            "host": "fish-server-connector-<DB_ENV>-107.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-108",
+            "host": "fish-server-connector-<DB_ENV>-108.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-109",
+            "host": "fish-server-connector-<DB_ENV>-109.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-110",
+            "host": "fish-server-connector-<DB_ENV>-110.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-111",
+            "host": "fish-server-connector-<DB_ENV>-111.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-112",
+            "host": "fish-server-connector-<DB_ENV>-112.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-113",
+            "host": "fish-server-connector-<DB_ENV>-113.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-114",
+            "host": "fish-server-connector-<DB_ENV>-114.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-115",
+            "host": "fish-server-connector-<DB_ENV>-115.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-116",
+            "host": "fish-server-connector-<DB_ENV>-116.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-117",
+            "host": "fish-server-connector-<DB_ENV>-117.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-118",
+            "host": "fish-server-connector-<DB_ENV>-118.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        },
+        {
+            "id": "connector-server-119",
+            "host": "fish-server-connector-<DB_ENV>-119.fish-server-connector-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 53100,
+            "clientPort": 8018,
+            "frontend": "true",
+            "args": ""
+        }
+    ],
+    "fishHunter": [
+        {
+            "id": "fishHunter-server-0",
+            "host": "fish-server-fishHunter-<DB_ENV>-0.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-1",
+            "host": "fish-server-fishHunter-<DB_ENV>-1.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-2",
+            "host": "fish-server-fishHunter-<DB_ENV>-2.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-3",
+            "host": "fish-server-fishHunter-<DB_ENV>-3.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-4",
+            "host": "fish-server-fishHunter-<DB_ENV>-4.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-5",
+            "host": "fish-server-fishHunter-<DB_ENV>-5.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-6",
+            "host": "fish-server-fishHunter-<DB_ENV>-6.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-7",
+            "host": "fish-server-fishHunter-<DB_ENV>-7.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-8",
+            "host": "fish-server-fishHunter-<DB_ENV>-8.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-9",
+            "host": "fish-server-fishHunter-<DB_ENV>-9.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-10",
+            "host": "fish-server-fishHunter-<DB_ENV>-10.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-11",
+            "host": "fish-server-fishHunter-<DB_ENV>-11.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-12",
+            "host": "fish-server-fishHunter-<DB_ENV>-12.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-13",
+            "host": "fish-server-fishHunter-<DB_ENV>-13.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-14",
+            "host": "fish-server-fishHunter-<DB_ENV>-14.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-15",
+            "host": "fish-server-fishHunter-<DB_ENV>-15.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-16",
+            "host": "fish-server-fishHunter-<DB_ENV>-16.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-17",
+            "host": "fish-server-fishHunter-<DB_ENV>-17.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-18",
+            "host": "fish-server-fishHunter-<DB_ENV>-18.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-19",
+            "host": "fish-server-fishHunter-<DB_ENV>-19.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-20",
+            "host": "fish-server-fishHunter-<DB_ENV>-20.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-21",
+            "host": "fish-server-fishHunter-<DB_ENV>-21.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-22",
+            "host": "fish-server-fishHunter-<DB_ENV>-22.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-23",
+            "host": "fish-server-fishHunter-<DB_ENV>-23.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-24",
+            "host": "fish-server-fishHunter-<DB_ENV>-24.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-25",
+            "host": "fish-server-fishHunter-<DB_ENV>-25.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-26",
+            "host": "fish-server-fishHunter-<DB_ENV>-26.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-27",
+            "host": "fish-server-fishHunter-<DB_ENV>-27.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-28",
+            "host": "fish-server-fishHunter-<DB_ENV>-28.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-29",
+            "host": "fish-server-fishHunter-<DB_ENV>-29.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-30",
+            "host": "fish-server-fishHunter-<DB_ENV>-30.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-31",
+            "host": "fish-server-fishHunter-<DB_ENV>-31.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-32",
+            "host": "fish-server-fishHunter-<DB_ENV>-32.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-33",
+            "host": "fish-server-fishHunter-<DB_ENV>-33.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-34",
+            "host": "fish-server-fishHunter-<DB_ENV>-34.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-35",
+            "host": "fish-server-fishHunter-<DB_ENV>-35.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-36",
+            "host": "fish-server-fishHunter-<DB_ENV>-36.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-37",
+            "host": "fish-server-fishHunter-<DB_ENV>-37.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-38",
+            "host": "fish-server-fishHunter-<DB_ENV>-38.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-39",
+            "host": "fish-server-fishHunter-<DB_ENV>-39.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-40",
+            "host": "fish-server-fishHunter-<DB_ENV>-40.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-41",
+            "host": "fish-server-fishHunter-<DB_ENV>-41.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-42",
+            "host": "fish-server-fishHunter-<DB_ENV>-42.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-43",
+            "host": "fish-server-fishHunter-<DB_ENV>-43.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-44",
+            "host": "fish-server-fishHunter-<DB_ENV>-44.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-45",
+            "host": "fish-server-fishHunter-<DB_ENV>-45.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-46",
+            "host": "fish-server-fishHunter-<DB_ENV>-46.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-47",
+            "host": "fish-server-fishHunter-<DB_ENV>-47.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-48",
+            "host": "fish-server-fishHunter-<DB_ENV>-48.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-49",
+            "host": "fish-server-fishHunter-<DB_ENV>-49.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-50",
+            "host": "fish-server-fishHunter-<DB_ENV>-50.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-51",
+            "host": "fish-server-fishHunter-<DB_ENV>-51.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-52",
+            "host": "fish-server-fishHunter-<DB_ENV>-52.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-53",
+            "host": "fish-server-fishHunter-<DB_ENV>-53.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-54",
+            "host": "fish-server-fishHunter-<DB_ENV>-54.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-55",
+            "host": "fish-server-fishHunter-<DB_ENV>-55.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-56",
+            "host": "fish-server-fishHunter-<DB_ENV>-56.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-57",
+            "host": "fish-server-fishHunter-<DB_ENV>-57.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-58",
+            "host": "fish-server-fishHunter-<DB_ENV>-58.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-59",
+            "host": "fish-server-fishHunter-<DB_ENV>-59.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-60",
+            "host": "fish-server-fishHunter-<DB_ENV>-60.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-61",
+            "host": "fish-server-fishHunter-<DB_ENV>-61.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-62",
+            "host": "fish-server-fishHunter-<DB_ENV>-62.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-63",
+            "host": "fish-server-fishHunter-<DB_ENV>-63.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-64",
+            "host": "fish-server-fishHunter-<DB_ENV>-64.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-65",
+            "host": "fish-server-fishHunter-<DB_ENV>-65.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-66",
+            "host": "fish-server-fishHunter-<DB_ENV>-66.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-67",
+            "host": "fish-server-fishHunter-<DB_ENV>-67.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-68",
+            "host": "fish-server-fishHunter-<DB_ENV>-68.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-69",
+            "host": "fish-server-fishHunter-<DB_ENV>-69.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-70",
+            "host": "fish-server-fishHunter-<DB_ENV>-70.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-71",
+            "host": "fish-server-fishHunter-<DB_ENV>-71.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-72",
+            "host": "fish-server-fishHunter-<DB_ENV>-72.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-73",
+            "host": "fish-server-fishHunter-<DB_ENV>-73.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-74",
+            "host": "fish-server-fishHunter-<DB_ENV>-74.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-75",
+            "host": "fish-server-fishHunter-<DB_ENV>-75.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-76",
+            "host": "fish-server-fishHunter-<DB_ENV>-76.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-77",
+            "host": "fish-server-fishHunter-<DB_ENV>-77.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-78",
+            "host": "fish-server-fishHunter-<DB_ENV>-78.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        },
+        {
+            "id": "fishHunter-server-79",
+            "host": "fish-server-fishHunter-<DB_ENV>-79.fish-server-fishHunter-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54300,
+            "args": ""
+        }
+    ],
+    "fishHunterBackend": [
+        {
+            "id": "fishHunterBackend-server-0",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-0.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-1",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-1.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-2",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-2.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-3",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-3.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-4",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-4.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-5",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-5.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-6",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-6.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-7",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-7.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-8",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-8.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-9",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-9.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-10",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-10.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-11",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-11.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-12",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-12.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-13",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-13.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-14",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-14.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-15",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-15.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-16",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-16.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-17",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-17.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-18",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-18.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-19",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-19.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-20",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-20.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-21",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-21.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-22",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-22.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-23",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-23.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-24",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-24.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-25",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-25.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-26",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-26.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-27",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-27.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-28",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-28.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-29",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-29.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-30",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-30.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-31",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-31.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-32",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-32.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-33",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-33.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-34",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-34.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-35",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-35.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-36",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-36.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-37",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-37.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-38",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-38.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-39",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-39.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-40",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-40.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-41",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-41.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-42",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-42.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-43",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-43.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-44",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-44.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-45",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-45.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-46",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-46.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-47",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-47.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-48",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-48.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-49",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-49.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-50",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-50.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-51",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-51.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-52",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-52.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-53",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-53.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-54",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-54.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-55",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-55.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-56",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-56.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-57",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-57.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-58",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-58.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-59",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-59.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-60",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-60.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-61",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-61.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-62",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-62.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-63",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-63.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-64",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-64.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-65",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-65.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-66",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-66.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-67",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-67.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-68",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-68.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-69",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-69.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-70",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-70.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-71",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-71.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-72",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-72.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-73",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-73.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-74",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-74.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-75",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-75.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-76",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-76.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-77",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-77.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-78",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-78.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        },
+        {
+            "id": "fishHunterBackend-server-79",
+            "host": "fish-server-fishHunterBackend-<DB_ENV>-79.fish-server-fishHunterBackend-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": 54400,
+            "args": ""
+        }
+    ]
+}
+

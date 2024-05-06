@@ -1,0 +1,500 @@
+{
+"extraBonus":[
+{"triggerprob":400,"tabvals":[]},
+{"triggerprob":100,"tabvals":[
+{
+"triggerprob":0,"bonusType":"Fish_201","val":{
+"normal":[
+{"tabprob":370, "tabvals":[{"prob":1000, "val":50},{"prob":5000, "val":100},{"prob":30, "val":150},{"prob":15, "val":200},{"prob":15, "val":250},{"prob":11, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":1725, "tabvals":[{"prob":8000, "val":50},{"prob":1933, "val":100},{"prob":100, "val":150},{"prob":5, "val":200},{"prob":1, "val":250},{"prob":1, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":800, "tabvals":[{"prob":3000, "val":50},{"prob":4000, "val":100},{"prob":10, "val":150},{"prob":14, "val":200},{"prob":10, "val":250},{"prob":6, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":50},{"prob":10, "val":100},{"prob":60, "val":150},{"prob":2, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":50},{"prob":25, "val":100},{"prob":70, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":50},{"prob":180, "val":100},{"prob":90, "val":150},{"prob":45, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":50},{"prob":15, "val":100},{"prob":20, "val":150},{"prob":15, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":50},{"prob":5, "val":100},{"prob":5, "val":150},{"prob":5, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":50},{"prob":230, "val":100},{"prob":120, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":50},{"prob":1, "val":100},{"prob":1, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+],
+"easy":[
+{"tabprob":370, "tabvals":[{"prob":1000, "val":50},{"prob":5000, "val":100},{"prob":30, "val":150},{"prob":15, "val":200},{"prob":15, "val":250},{"prob":11, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":1725, "tabvals":[{"prob":8000, "val":50},{"prob":1933, "val":100},{"prob":100, "val":150},{"prob":5, "val":200},{"prob":1, "val":250},{"prob":1, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":800, "tabvals":[{"prob":3000, "val":50},{"prob":4000, "val":100},{"prob":10, "val":150},{"prob":14, "val":200},{"prob":10, "val":250},{"prob":6, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":50},{"prob":10, "val":100},{"prob":60, "val":150},{"prob":2, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":50},{"prob":25, "val":100},{"prob":70, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":50},{"prob":180, "val":100},{"prob":90, "val":150},{"prob":45, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":50},{"prob":15, "val":100},{"prob":20, "val":150},{"prob":15, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":50},{"prob":5, "val":100},{"prob":5, "val":150},{"prob":5, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":50},{"prob":230, "val":100},{"prob":120, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":50},{"prob":1, "val":100},{"prob":1, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+],
+"hard":[
+{"tabprob":370, "tabvals":[{"prob":1000, "val":50},{"prob":5000, "val":100},{"prob":30, "val":150},{"prob":15, "val":200},{"prob":15, "val":250},{"prob":11, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":1725, "tabvals":[{"prob":8000, "val":50},{"prob":1933, "val":100},{"prob":100, "val":150},{"prob":5, "val":200},{"prob":1, "val":250},{"prob":1, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":800, "tabvals":[{"prob":3000, "val":50},{"prob":4000, "val":100},{"prob":10, "val":150},{"prob":14, "val":200},{"prob":10, "val":250},{"prob":6, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":50},{"prob":10, "val":100},{"prob":60, "val":150},{"prob":2, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":50},{"prob":25, "val":100},{"prob":70, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":50},{"prob":180, "val":100},{"prob":90, "val":150},{"prob":45, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":50},{"prob":15, "val":100},{"prob":20, "val":150},{"prob":15, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":50},{"prob":5, "val":100},{"prob":5, "val":150},{"prob":5, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":50},{"prob":230, "val":100},{"prob":120, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":50},{"prob":1, "val":100},{"prob":1, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+],
+"special":[
+{"tabprob":370, "tabvals":[{"prob":1000, "val":50},{"prob":5000, "val":100},{"prob":30, "val":150},{"prob":15, "val":200},{"prob":15, "val":250},{"prob":11, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":1725, "tabvals":[{"prob":8000, "val":50},{"prob":1933, "val":100},{"prob":100, "val":150},{"prob":5, "val":200},{"prob":1, "val":250},{"prob":1, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":800, "tabvals":[{"prob":3000, "val":50},{"prob":4000, "val":100},{"prob":10, "val":150},{"prob":14, "val":200},{"prob":10, "val":250},{"prob":6, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":50},{"prob":10, "val":100},{"prob":60, "val":150},{"prob":2, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":50},{"prob":25, "val":100},{"prob":70, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":50},{"prob":180, "val":100},{"prob":90, "val":150},{"prob":45, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":50},{"prob":15, "val":100},{"prob":20, "val":150},{"prob":15, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":50},{"prob":5, "val":100},{"prob":5, "val":150},{"prob":5, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":50},{"prob":230, "val":100},{"prob":120, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":50},{"prob":1, "val":100},{"prob":1, "val":150},{"prob":1, "val":200},{"prob":0, "val":250},{"prob":0, "val":300},{"prob":0, "val":1000},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+]
+}
+},
+{
+"triggerprob":400,"bonusType":"Fish_203","val":{
+"normal":[
+{"tabprob":123, "tabvals":[{"prob":50, "val":8},{"prob":1000, "val":80},{"prob":433, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":498, "tabvals":[{"prob":50, "val":8},{"prob":157, "val":80},{"prob":7, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":1501, "tabvals":[{"prob":32, "val":8},{"prob":105, "val":80},{"prob":71, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":10, "val":80},{"prob":60, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":8},{"prob":25, "val":80},{"prob":70, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":8},{"prob":180, "val":80},{"prob":90, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":8},{"prob":15, "val":80},{"prob":20, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":5, "val":80},{"prob":5, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":8},{"prob":230, "val":80},{"prob":120, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":1, "val":80},{"prob":1, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+],
+"easy":[
+{"tabprob":123, "tabvals":[{"prob":50, "val":8},{"prob":1000, "val":80},{"prob":433, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":498, "tabvals":[{"prob":50, "val":8},{"prob":157, "val":80},{"prob":7, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":1501, "tabvals":[{"prob":32, "val":8},{"prob":105, "val":80},{"prob":71, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":10, "val":80},{"prob":60, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":8},{"prob":25, "val":80},{"prob":70, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":8},{"prob":180, "val":80},{"prob":90, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":8},{"prob":15, "val":80},{"prob":20, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":5, "val":80},{"prob":5, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":8},{"prob":230, "val":80},{"prob":120, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":1, "val":80},{"prob":1, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+],
+"hard":[
+{"tabprob":123, "tabvals":[{"prob":50, "val":8},{"prob":1000, "val":80},{"prob":433, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":498, "tabvals":[{"prob":50, "val":8},{"prob":157, "val":80},{"prob":7, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":1501, "tabvals":[{"prob":32, "val":8},{"prob":105, "val":80},{"prob":71, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":10, "val":80},{"prob":60, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":8},{"prob":25, "val":80},{"prob":70, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":8},{"prob":180, "val":80},{"prob":90, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":8},{"prob":15, "val":80},{"prob":20, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":5, "val":80},{"prob":5, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":8},{"prob":230, "val":80},{"prob":120, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":1, "val":80},{"prob":1, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+],
+"special":[
+{"tabprob":123, "tabvals":[{"prob":50, "val":8},{"prob":1000, "val":80},{"prob":433, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":498, "tabvals":[{"prob":50, "val":8},{"prob":157, "val":80},{"prob":7, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":1501, "tabvals":[{"prob":32, "val":8},{"prob":105, "val":80},{"prob":71, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":10, "val":80},{"prob":60, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":8},{"prob":25, "val":80},{"prob":70, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":8},{"prob":180, "val":80},{"prob":90, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":8},{"prob":15, "val":80},{"prob":20, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":5, "val":80},{"prob":5, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":8},{"prob":230, "val":80},{"prob":120, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":1, "val":80},{"prob":1, "val":88},{"prob":0, "val":800},{"prob":0, "val":808},{"prob":0, "val":880},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+]
+}
+},
+{
+"triggerprob":0,"bonusType":"Fish_203","val":{
+"normal":[
+{"tabprob":100, "tabvals":[{"prob":10000, "val":8},{"prob":800, "val":18},{"prob":38, "val":58},{"prob":6, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":100, "val":8},{"prob":45, "val":18},{"prob":80, "val":58},{"prob":2, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":150, "val":18},{"prob":163, "val":58},{"prob":10, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":10, "val":18},{"prob":60, "val":58},{"prob":2, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":8},{"prob":25, "val":18},{"prob":70, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":8},{"prob":180, "val":18},{"prob":90, "val":58},{"prob":45, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":8},{"prob":15, "val":18},{"prob":20, "val":58},{"prob":15, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":5, "val":18},{"prob":5, "val":58},{"prob":5, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":8},{"prob":230, "val":18},{"prob":120, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":1, "val":18},{"prob":1, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+],
+"easy":[
+{"tabprob":100, "tabvals":[{"prob":10000, "val":8},{"prob":800, "val":18},{"prob":38, "val":58},{"prob":6, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":100, "val":8},{"prob":45, "val":18},{"prob":80, "val":58},{"prob":2, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":150, "val":18},{"prob":163, "val":58},{"prob":10, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":10, "val":18},{"prob":60, "val":58},{"prob":2, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":8},{"prob":25, "val":18},{"prob":70, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":8},{"prob":180, "val":18},{"prob":90, "val":58},{"prob":45, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":8},{"prob":15, "val":18},{"prob":20, "val":58},{"prob":15, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":5, "val":18},{"prob":5, "val":58},{"prob":5, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":8},{"prob":230, "val":18},{"prob":120, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":1, "val":18},{"prob":1, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+],
+"hard":[
+{"tabprob":100, "tabvals":[{"prob":10000, "val":8},{"prob":800, "val":18},{"prob":38, "val":58},{"prob":6, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":100, "val":8},{"prob":45, "val":18},{"prob":80, "val":58},{"prob":2, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":150, "val":18},{"prob":163, "val":58},{"prob":10, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":10, "val":18},{"prob":60, "val":58},{"prob":2, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":8},{"prob":25, "val":18},{"prob":70, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":8},{"prob":180, "val":18},{"prob":90, "val":58},{"prob":45, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":8},{"prob":15, "val":18},{"prob":20, "val":58},{"prob":15, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":5, "val":18},{"prob":5, "val":58},{"prob":5, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":8},{"prob":230, "val":18},{"prob":120, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":1, "val":18},{"prob":1, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+],
+"special":[
+{"tabprob":100, "tabvals":[{"prob":10000, "val":8},{"prob":800, "val":18},{"prob":38, "val":58},{"prob":6, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":100, "val":8},{"prob":45, "val":18},{"prob":80, "val":58},{"prob":2, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":150, "val":18},{"prob":163, "val":58},{"prob":10, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":2, "val":8},{"prob":10, "val":18},{"prob":60, "val":58},{"prob":2, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":20, "val":8},{"prob":25, "val":18},{"prob":70, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":160, "val":8},{"prob":180, "val":18},{"prob":90, "val":58},{"prob":45, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":15, "val":8},{"prob":15, "val":18},{"prob":20, "val":58},{"prob":15, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":5, "val":18},{"prob":5, "val":58},{"prob":5, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":200, "val":8},{"prob":230, "val":18},{"prob":120, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]},
+{"tabprob":0, "tabvals":[{"prob":1, "val":8},{"prob":1, "val":18},{"prob":1, "val":58},{"prob":1, "val":168},{"prob":0, "val":288},{"prob":0, "val":388},{"prob":0, "val":588},{"prob":0, "val":888},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0},{"prob":0, "val":0}]}
+]
+}
+}
+]
+}
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

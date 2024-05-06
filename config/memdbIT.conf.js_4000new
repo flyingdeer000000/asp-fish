@@ -1,0 +1,513 @@
+// Copyright 2015 MemDB.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+// implied. See the License for the specific language governing
+// permissions and limitations under the License. See the AUTHORS file
+// for names of contributors.
+
+'use strict';
+/*
+ * MemDB server config template
+ *
+ * Please modify it on your needs
+ * This is plain javascript, you can add any js code here, just export the config
+ */
+
+module.exports = {
+    // *** global settings for all shards ***
+
+    // Global backend storage, all shards must connect to the same mongodb (cluster)
+    backend: {
+        engine: 'mongodb', // should be 'mongodb'
+//        url: 'mongodb://root:admin@localhost/JiaYuGame?authSource=admin', // mongodb connect string
+        url: 'mongodb://127.0.0.1:27017/fishHunter',
+        options: {}, // mongodb connect options
+    },
+
+    // Global locking redis, all shards must connect to the same redis (cluster)
+    locking: {
+        host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        options: {
+            no_ready_check: true
+        }
+    },
+
+    // Data replication redis, one redis instance for each shard
+    // You can override this in shard settings to choice different slave for each shard
+    slave: {
+        host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        options: {
+            no_ready_check: true
+        }
+    },
+
+    // Log settings
+    log: {
+        // Log file path
+        path : './logs/memdbcluster',
+        // Log Level (one of 'ALL', 'TRACE', 'DEBUG', 'INFO', 'WARN', 'ERROR', 'OFF')
+        // Please set to WARN on production
+        level: 'WARN',
+    },
+
+    // Promise settings
+    promise: {
+        // Enable long stack trace, disable it on production
+        longStackTraces: false,
+    },
+
+    // user for memdbcluster ssh login, default current user
+    // when start using memdbcluster, make sure you have ssh permission (without password) on all servers,
+    // and the memdb version, install folder, config files are all the same in all servers
+    user: process.env.USER,
+
+    // Collection settings (for index), modify it on your need
+    collections: require('./memdb.index'),
+
+    shards: {
+        // shardId
+fish0: {
+    "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish1: {
+    "host": "fish-server-memdb-<DB_ENV>-1.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish2: {
+    "host": "fish-server-memdb-<DB_ENV>-2.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish3: {
+    "host": "fish-server-memdb-<DB_ENV>-3.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish4: {
+    "host": "fish-server-memdb-<DB_ENV>-4.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish5: {
+    "host": "fish-server-memdb-<DB_ENV>-5.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish6: {
+    "host": "fish-server-memdb-<DB_ENV>-6.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish7: {
+    "host": "fish-server-memdb-<DB_ENV>-7.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish8: {
+    "host": "fish-server-memdb-<DB_ENV>-8.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish9: {
+    "host": "fish-server-memdb-<DB_ENV>-9.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish10: {
+    "host": "fish-server-memdb-<DB_ENV>-10.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish11: {
+    "host": "fish-server-memdb-<DB_ENV>-11.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish12: {
+    "host": "fish-server-memdb-<DB_ENV>-12.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish13: {
+    "host": "fish-server-memdb-<DB_ENV>-13.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish14: {
+    "host": "fish-server-memdb-<DB_ENV>-14.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish15: {
+    "host": "fish-server-memdb-<DB_ENV>-15.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish16: {
+    "host": "fish-server-memdb-<DB_ENV>-16.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish17: {
+    "host": "fish-server-memdb-<DB_ENV>-17.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish18: {
+    "host": "fish-server-memdb-<DB_ENV>-18.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish19: {
+    "host": "fish-server-memdb-<DB_ENV>-19.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish20: {
+    "host": "fish-server-memdb-<DB_ENV>-20.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish21: {
+    "host": "fish-server-memdb-<DB_ENV>-21.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish22: {
+    "host": "fish-server-memdb-<DB_ENV>-22.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish23: {
+    "host": "fish-server-memdb-<DB_ENV>-23.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish24: {
+    "host": "fish-server-memdb-<DB_ENV>-24.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish25: {
+    "host": "fish-server-memdb-<DB_ENV>-25.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish26: {
+    "host": "fish-server-memdb-<DB_ENV>-26.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish27: {
+    "host": "fish-server-memdb-<DB_ENV>-27.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish28: {
+    "host": "fish-server-memdb-<DB_ENV>-28.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish29: {
+    "host": "fish-server-memdb-<DB_ENV>-29.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish30: {
+    "host": "fish-server-memdb-<DB_ENV>-30.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish31: {
+    "host": "fish-server-memdb-<DB_ENV>-31.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish32: {
+    "host": "fish-server-memdb-<DB_ENV>-32.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish33: {
+    "host": "fish-server-memdb-<DB_ENV>-33.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish34: {
+    "host": "fish-server-memdb-<DB_ENV>-34.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish35: {
+    "host": "fish-server-memdb-<DB_ENV>-35.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish36: {
+    "host": "fish-server-memdb-<DB_ENV>-36.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish37: {
+    "host": "fish-server-memdb-<DB_ENV>-37.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish38: {
+    "host": "fish-server-memdb-<DB_ENV>-38.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish39: {
+    "host": "fish-server-memdb-<DB_ENV>-39.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish40: {
+    "host": "fish-server-memdb-<DB_ENV>-40.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish41: {
+    "host": "fish-server-memdb-<DB_ENV>-41.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish42: {
+    "host": "fish-server-memdb-<DB_ENV>-42.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish43: {
+    "host": "fish-server-memdb-<DB_ENV>-43.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish44: {
+    "host": "fish-server-memdb-<DB_ENV>-44.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish45: {
+    "host": "fish-server-memdb-<DB_ENV>-45.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish46: {
+    "host": "fish-server-memdb-<DB_ENV>-46.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish47: {
+    "host": "fish-server-memdb-<DB_ENV>-47.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish48: {
+    "host": "fish-server-memdb-<DB_ENV>-48.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish49: {
+    "host": "fish-server-memdb-<DB_ENV>-49.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish50: {
+    "host": "fish-server-memdb-<DB_ENV>-50.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish51: {
+    "host": "fish-server-memdb-<DB_ENV>-51.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish52: {
+    "host": "fish-server-memdb-<DB_ENV>-52.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish53: {
+    "host": "fish-server-memdb-<DB_ENV>-53.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish54: {
+    "host": "fish-server-memdb-<DB_ENV>-54.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish55: {
+    "host": "fish-server-memdb-<DB_ENV>-55.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish56: {
+    "host": "fish-server-memdb-<DB_ENV>-56.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish57: {
+    "host": "fish-server-memdb-<DB_ENV>-57.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish58: {
+    "host": "fish-server-memdb-<DB_ENV>-58.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish59: {
+    "host": "fish-server-memdb-<DB_ENV>-59.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish60: {
+    "host": "fish-server-memdb-<DB_ENV>-60.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish61: {
+    "host": "fish-server-memdb-<DB_ENV>-61.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish62: {
+    "host": "fish-server-memdb-<DB_ENV>-62.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish63: {
+    "host": "fish-server-memdb-<DB_ENV>-63.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish64: {
+    "host": "fish-server-memdb-<DB_ENV>-64.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish65: {
+    "host": "fish-server-memdb-<DB_ENV>-65.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish66: {
+    "host": "fish-server-memdb-<DB_ENV>-66.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish67: {
+    "host": "fish-server-memdb-<DB_ENV>-67.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish68: {
+    "host": "fish-server-memdb-<DB_ENV>-68.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish69: {
+    "host": "fish-server-memdb-<DB_ENV>-69.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish70: {
+    "host": "fish-server-memdb-<DB_ENV>-70.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish71: {
+    "host": "fish-server-memdb-<DB_ENV>-71.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish72: {
+    "host": "fish-server-memdb-<DB_ENV>-72.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish73: {
+    "host": "fish-server-memdb-<DB_ENV>-73.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish74: {
+    "host": "fish-server-memdb-<DB_ENV>-74.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish75: {
+    "host": "fish-server-memdb-<DB_ENV>-75.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish76: {
+    "host": "fish-server-memdb-<DB_ENV>-76.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish77: {
+    "host": "fish-server-memdb-<DB_ENV>-77.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish78: {
+    "host": "fish-server-memdb-<DB_ENV>-78.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish79: {
+    "host": "fish-server-memdb-<DB_ENV>-79.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+},
+fish80: {
+    "host": "fish-server-memdb-<DB_ENV>-80.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+    "bind": "0.0.0.0",
+    "port": "52127"
+}
+    },
+    // *** additional settings ***
+    // These settings are unstable and may change in later version
+
+    // Delay for flush changes to backend storage
+    // Set it to large value to improve performance if the data delay in backend storage is not an issue.
+    persistentDelay : 60 * 1000, // 600 * 1000, // number in ms, default 10 min. 0 indicates never
+
+    // Idle time before document is removed from memory.
+    // Larger value can improve performance but use more memory.
+    // Set it to large value if the documents accessed via this shard is limited.
+    // Do not access too many different documents in a short time, which may exhault memory and trigger heavy GC operation.
+    // idleTimeout : 1800 * 1000, // number in ms, default 30 min. 0 indicates never
+
+    // GC will be triggered when memory usage reach this limit
+    // GC can be very heavy, please adjust idleTimeout to avoid GC.
+    // memoryLimit : 1024, // number in MB, default 1024
+
+    // Disable redis replica, DO NOT turn on this in production.
+    // disableSlave : false, // default false
+
+    // Slow query time
+    slowQuery : 1000, // number in ms. default 2000
+
+    // Turn on heapdump module (https://www.npmjs.com/package/heapdump)
+    // heapdump : false, // default false
+};
+

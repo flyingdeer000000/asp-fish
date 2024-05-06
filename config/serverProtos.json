@@ -1,0 +1,83 @@
+{
+    "game.fire": {
+        "message Data": {
+            "message Player": {
+                "required string id": 1
+            },
+            "required Player player": 1,
+            "message Bullet": {
+                "required double bulletId": 1,
+                "required string playerId": 2,
+                "required double createTime": 3,
+                "required double angle": 4,
+                "required uInt32 cost": 5,
+                "required uInt32 lockTargetId": 6,
+                "required uInt32 chairId": 7
+            },
+            "required Bullet bullet": 2
+        },
+        "required Data msg" : 1
+    },
+    "game.colliderResult" : {
+        "message Data": {
+            "message Player": {
+                "required string id": 1,
+                "required uInt32 gold": 2,
+                "required uInt32 delta": 3
+            },
+            "message Result": {
+                "required double bid" : 1,
+                "repeated uInt32 fids" : 2,
+                "required uInt32 success" : 3,
+                "required uInt32 die" : 4
+            },
+            "required Player player": 1,
+            "repeated Result result":2
+        },
+        "required Data msg" : 1
+    },
+    "game.onSpawnFishes" : {
+        "message Data": {
+            "message Fish": {
+                "required string areaId" : 1,
+                "required uInt32 id" : 2,
+                "required string type" : 3,
+                "required uInt32 amount" : 4,
+                "required double born" : 5,
+                "required uInt32 alive" : 6,
+                "required string state" : 7,
+                "required string path" : 8,
+                "required uInt32 index" : 9,
+                "required uInt32 score" : 10
+            },
+            "repeated Fish fishes" : 1
+        },
+        "required Data msg" : 1
+    },
+    "game.onSpawnGroup" : {
+        "message Data": {
+            "message Fish": {
+                "required string areaId" : 1,
+                "required uInt32 id" : 2,
+                "required string type" : 3,
+                "required uInt32 amount" : 4,
+                "required double born" : 5,
+                "required uInt32 alive" : 6,
+                "required string state" : 7,
+                "required string path" : 8,
+                "required uInt32 index" : 9,
+                "required uInt32 score" : 10
+            },
+            "message GroupInfo" : {
+                "required string state" : 1,
+                "required string group" : 2,
+                "required string path" : 3,
+                "required double seed" : 4,
+                "required uInt32 alive" : 5
+            },
+            "required GroupInfo group":1,
+            "repeated Fish fishes" : 2
+        },
+        "required Data msg" : 1
+    }
+}

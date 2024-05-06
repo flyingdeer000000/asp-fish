@@ -1,0 +1,39 @@
+{
+  "whackMole-server-1":{
+    "maxChairs":1
+  },
+  "fishHunter-server":{
+    "maxChairs":1
+  },
+  "room" : {
+    "1":{
+      "maxChairs":2,
+      "ratio":1,
+      "name":"1:1"
+    },
+    "2":{
+      "maxChairs":2,
+      "ratio":1,
+      "name":"1:1"
+    },
+    "3":{
+      "maxChairs":2,
+      "ratio":1,
+      "name":"1:1"
+    }
+  },
+  "wallet" :{
+    "1":{
+      "auto":true,
+      "min":0
+    },
+    "2":{
+      "auto":true,
+      "min":0
+    },
+    "3":{
+      "auto":true,
+      "min":0
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+    "game.sitDown",
+    "game.standUp",
+    "game.start",
+    "game.end",
+    "game.quit",
+    "game.hit",
+    "game.fire",
+    "game.bulletBomb",
+    "game.colliderResult",
+    "game.onSpawnFishes",
+    "game.onSpawnGroup",
+    "game.changeScene",
+    "game.updateCannon",
+    "game.lockTarget",
+    "game.onChatMessage",
+    "game.updateBalance",
+    "game.updateWallet",
+    "game.quitRefund"
+]

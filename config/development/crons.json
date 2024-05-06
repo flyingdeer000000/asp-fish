@@ -1,0 +1,19 @@
+{
+  "fishHunter": [
+    {"id": 1, "time": "0/1 * * * * *", "action": "scheduleTask.timerLoop"},
+    {"id": 2, "time": "0/60 * * * * *", "action": "scheduleTask.ClearLobbyIdlePlayer"},
+    {"id": 3, "time": "0/60 * * * * *", "action": "scheduleTask.ClearIdlePlayer"},
+    {"id": 4, "time": "0/2 * * * * *", "action": "scheduleTask.updateSingleWalletBalance"},
+    {"id": 5, "time": "0/30 * * * * *", "action": "scheduleTask.rcTimerLoop"},
+    {"id": 6, "time": "0/60 * * * * *", "action": "scheduleTask.SpecialKeepAlive"},
+    {"id": 7, "time": "0/60 * * * * *", "action": "scheduleTask.handleCronClearCache"},
+    {"id": 8, "time": "0/60 * * * * *", "action": "scheduleTask.handleAPIfailBillChecked"}
+  ],
+  "fishHunterBackend": [
+    {"id": 1, "time": "0/1 * * * * *", "action": "scheduleTask.handleCancelFire"},
+    {"id": 2, "time": "0/2 * * * * *", "action": "scheduleTask.singleWalletBalanceSync"}
+  ],
+  "fishHunterRC": [
+    {"id": 1, "time": "0/30 * * * * *", "action": "scheduleTask.timerLoop"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@describe": {
+    "@webConnectorUrl": "連結 web connector 位置，IT 會抓此字串替換為該環境的參數(若有調整)",
+    "@apiServerUrl": "連結 api server 位置，IT 會抓此字串替換為該環境的參數(若有調整)",
+    "@fishGameId": "遊戲編號"
+  },
+
+  "webConnectorUrl": "http://10.0.5.236:31511/platform",
+  "apiServerUrl": "http://10.0.5.194:32123/",
+  "fishGameId": [ "10000",
+                  "10001", "10002", "10003", "10004", "10005", "10006",
+                  "10007", "10008", "10009", "10010", "10011", "10012",
+                  "10014", "10016",
+                  "10081", "10082", "10083"],
+  "IG_Auth": {
+    "HallId": 131,
+    "UpId": 132,
+    "token": "ej/ n 5j04fu06wj/6bp6u.3fu06"
+  }
+}

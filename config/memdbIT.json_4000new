@@ -1,0 +1,1158 @@
+{
+    "shards": {
+        "logger-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "webconnector-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "webconnector-server-1": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "webconnector-server-2": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "webconnector-server-3": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "webconnector-server-4": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterrc-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-1": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-2": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-1.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-1": {
+            "host": "fish-server-memdb-<DB_ENV>-1.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-0": {
+            "host": "fish-server-memdb-<DB_ENV>-2.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-1": {
+            "host": "fish-server-memdb-<DB_ENV>-2.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-3": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-4": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-5": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-2": {
+            "host": "fish-server-memdb-<DB_ENV>-3.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-3": {
+            "host": "fish-server-memdb-<DB_ENV>-3.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-2": {
+            "host": "fish-server-memdb-<DB_ENV>-4.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-3": {
+            "host": "fish-server-memdb-<DB_ENV>-4.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-6": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-7": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-8": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-4": {
+            "host": "fish-server-memdb-<DB_ENV>-5.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-5": {
+            "host": "fish-server-memdb-<DB_ENV>-5.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-4": {
+            "host": "fish-server-memdb-<DB_ENV>-6.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-5": {
+            "host": "fish-server-memdb-<DB_ENV>-6.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-9": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-10": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-11": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-6": {
+            "host": "fish-server-memdb-<DB_ENV>-7.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-7": {
+            "host": "fish-server-memdb-<DB_ENV>-7.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-6": {
+            "host": "fish-server-memdb-<DB_ENV>-8.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-7": {
+            "host": "fish-server-memdb-<DB_ENV>-8.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-12": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-13": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-14": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-8": {
+            "host": "fish-server-memdb-<DB_ENV>-9.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-9": {
+            "host": "fish-server-memdb-<DB_ENV>-9.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-8": {
+            "host": "fish-server-memdb-<DB_ENV>-10.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-9": {
+            "host": "fish-server-memdb-<DB_ENV>-10.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-15": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-16": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-17": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-10": {
+            "host": "fish-server-memdb-<DB_ENV>-11.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-11": {
+            "host": "fish-server-memdb-<DB_ENV>-11.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-10": {
+            "host": "fish-server-memdb-<DB_ENV>-12.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-11": {
+            "host": "fish-server-memdb-<DB_ENV>-12.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-18": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-19": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-20": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-12": {
+            "host": "fish-server-memdb-<DB_ENV>-13.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-13": {
+            "host": "fish-server-memdb-<DB_ENV>-13.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-12": {
+            "host": "fish-server-memdb-<DB_ENV>-14.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-13": {
+            "host": "fish-server-memdb-<DB_ENV>-14.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-21": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-22": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-23": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-14": {
+            "host": "fish-server-memdb-<DB_ENV>-15.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-15": {
+            "host": "fish-server-memdb-<DB_ENV>-15.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-14": {
+            "host": "fish-server-memdb-<DB_ENV>-16.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-15": {
+            "host": "fish-server-memdb-<DB_ENV>-16.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-24": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-25": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-26": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-16": {
+            "host": "fish-server-memdb-<DB_ENV>-17.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-17": {
+            "host": "fish-server-memdb-<DB_ENV>-17.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-16": {
+            "host": "fish-server-memdb-<DB_ENV>-18.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-17": {
+            "host": "fish-server-memdb-<DB_ENV>-18.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-27": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-28": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-29": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-18": {
+            "host": "fish-server-memdb-<DB_ENV>-19.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-19": {
+            "host": "fish-server-memdb-<DB_ENV>-19.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-18": {
+            "host": "fish-server-memdb-<DB_ENV>-20.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-19": {
+            "host": "fish-server-memdb-<DB_ENV>-20.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-30": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-31": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-32": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-20": {
+            "host": "fish-server-memdb-<DB_ENV>-21.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-21": {
+            "host": "fish-server-memdb-<DB_ENV>-21.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-20": {
+            "host": "fish-server-memdb-<DB_ENV>-22.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-21": {
+            "host": "fish-server-memdb-<DB_ENV>-22.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-33": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-34": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-35": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-22": {
+            "host": "fish-server-memdb-<DB_ENV>-23.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-23": {
+            "host": "fish-server-memdb-<DB_ENV>-23.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-22": {
+            "host": "fish-server-memdb-<DB_ENV>-24.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-23": {
+            "host": "fish-server-memdb-<DB_ENV>-24.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-36": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-37": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-38": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-24": {
+            "host": "fish-server-memdb-<DB_ENV>-25.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-25": {
+            "host": "fish-server-memdb-<DB_ENV>-25.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-24": {
+            "host": "fish-server-memdb-<DB_ENV>-26.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-25": {
+            "host": "fish-server-memdb-<DB_ENV>-26.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-39": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-40": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-41": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-26": {
+            "host": "fish-server-memdb-<DB_ENV>-27.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-27": {
+            "host": "fish-server-memdb-<DB_ENV>-27.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-26": {
+            "host": "fish-server-memdb-<DB_ENV>-28.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-27": {
+            "host": "fish-server-memdb-<DB_ENV>-28.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-42": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-43": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-44": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-28": {
+            "host": "fish-server-memdb-<DB_ENV>-29.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-29": {
+            "host": "fish-server-memdb-<DB_ENV>-29.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-28": {
+            "host": "fish-server-memdb-<DB_ENV>-30.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-29": {
+            "host": "fish-server-memdb-<DB_ENV>-30.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-45": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-46": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-47": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-30": {
+            "host": "fish-server-memdb-<DB_ENV>-31.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-31": {
+            "host": "fish-server-memdb-<DB_ENV>-31.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-30": {
+            "host": "fish-server-memdb-<DB_ENV>-32.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-31": {
+            "host": "fish-server-memdb-<DB_ENV>-32.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-48": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-49": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-50": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-32": {
+            "host": "fish-server-memdb-<DB_ENV>-33.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-33": {
+            "host": "fish-server-memdb-<DB_ENV>-33.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-32": {
+            "host": "fish-server-memdb-<DB_ENV>-34.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-33": {
+            "host": "fish-server-memdb-<DB_ENV>-34.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-51": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-52": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-53": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-34": {
+            "host": "fish-server-memdb-<DB_ENV>-35.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-35": {
+            "host": "fish-server-memdb-<DB_ENV>-35.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-34": {
+            "host": "fish-server-memdb-<DB_ENV>-36.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-35": {
+            "host": "fish-server-memdb-<DB_ENV>-36.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-54": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-55": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-56": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-36": {
+            "host": "fish-server-memdb-<DB_ENV>-37.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-37": {
+            "host": "fish-server-memdb-<DB_ENV>-37.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-36": {
+            "host": "fish-server-memdb-<DB_ENV>-38.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-37": {
+            "host": "fish-server-memdb-<DB_ENV>-38.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-57": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-58": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-59": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-38": {
+            "host": "fish-server-memdb-<DB_ENV>-39.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-39": {
+            "host": "fish-server-memdb-<DB_ENV>-39.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-38": {
+            "host": "fish-server-memdb-<DB_ENV>-40.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-39": {
+            "host": "fish-server-memdb-<DB_ENV>-40.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-60": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-61": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-62": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-40": {
+            "host": "fish-server-memdb-<DB_ENV>-41.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-41": {
+            "host": "fish-server-memdb-<DB_ENV>-41.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-40": {
+            "host": "fish-server-memdb-<DB_ENV>-42.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-41": {
+            "host": "fish-server-memdb-<DB_ENV>-42.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-63": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-64": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-65": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-42": {
+            "host": "fish-server-memdb-<DB_ENV>-43.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-43": {
+            "host": "fish-server-memdb-<DB_ENV>-43.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-42": {
+            "host": "fish-server-memdb-<DB_ENV>-44.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-43": {
+            "host": "fish-server-memdb-<DB_ENV>-44.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-66": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-67": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-68": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-44": {
+            "host": "fish-server-memdb-<DB_ENV>-45.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-45": {
+            "host": "fish-server-memdb-<DB_ENV>-45.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-44": {
+            "host": "fish-server-memdb-<DB_ENV>-46.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-45": {
+            "host": "fish-server-memdb-<DB_ENV>-46.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-69": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-70": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-71": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-46": {
+            "host": "fish-server-memdb-<DB_ENV>-47.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-47": {
+            "host": "fish-server-memdb-<DB_ENV>-47.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-46": {
+            "host": "fish-server-memdb-<DB_ENV>-48.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-47": {
+            "host": "fish-server-memdb-<DB_ENV>-48.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-72": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-73": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-74": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-48": {
+            "host": "fish-server-memdb-<DB_ENV>-49.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-49": {
+            "host": "fish-server-memdb-<DB_ENV>-49.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-48": {
+            "host": "fish-server-memdb-<DB_ENV>-50.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-49": {
+            "host": "fish-server-memdb-<DB_ENV>-50.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-75": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-76": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-77": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-50": {
+            "host": "fish-server-memdb-<DB_ENV>-51.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-51": {
+            "host": "fish-server-memdb-<DB_ENV>-51.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-50": {
+            "host": "fish-server-memdb-<DB_ENV>-52.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-51": {
+            "host": "fish-server-memdb-<DB_ENV>-52.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-78": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-79": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-80": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-52": {
+            "host": "fish-server-memdb-<DB_ENV>-53.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-53": {
+            "host": "fish-server-memdb-<DB_ENV>-53.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-52": {
+            "host": "fish-server-memdb-<DB_ENV>-54.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-53": {
+            "host": "fish-server-memdb-<DB_ENV>-54.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-81": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-82": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-83": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-54": {
+            "host": "fish-server-memdb-<DB_ENV>-55.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-55": {
+            "host": "fish-server-memdb-<DB_ENV>-55.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-54": {
+            "host": "fish-server-memdb-<DB_ENV>-56.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-55": {
+            "host": "fish-server-memdb-<DB_ENV>-56.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-84": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-85": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-86": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-56": {
+            "host": "fish-server-memdb-<DB_ENV>-57.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-57": {
+            "host": "fish-server-memdb-<DB_ENV>-57.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-56": {
+            "host": "fish-server-memdb-<DB_ENV>-58.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-57": {
+            "host": "fish-server-memdb-<DB_ENV>-58.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-87": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-88": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-89": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-58": {
+            "host": "fish-server-memdb-<DB_ENV>-59.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-59": {
+            "host": "fish-server-memdb-<DB_ENV>-59.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-58": {
+            "host": "fish-server-memdb-<DB_ENV>-60.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-59": {
+            "host": "fish-server-memdb-<DB_ENV>-60.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-90": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-91": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-92": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-60": {
+            "host": "fish-server-memdb-<DB_ENV>-61.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-61": {
+            "host": "fish-server-memdb-<DB_ENV>-61.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-60": {
+            "host": "fish-server-memdb-<DB_ENV>-62.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-61": {
+            "host": "fish-server-memdb-<DB_ENV>-62.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-93": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-94": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-95": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-62": {
+            "host": "fish-server-memdb-<DB_ENV>-63.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-63": {
+            "host": "fish-server-memdb-<DB_ENV>-63.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-62": {
+            "host": "fish-server-memdb-<DB_ENV>-64.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-63": {
+            "host": "fish-server-memdb-<DB_ENV>-64.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-96": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-97": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-98": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-64": {
+            "host": "fish-server-memdb-<DB_ENV>-65.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-65": {
+            "host": "fish-server-memdb-<DB_ENV>-65.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-64": {
+            "host": "fish-server-memdb-<DB_ENV>-66.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-65": {
+            "host": "fish-server-memdb-<DB_ENV>-66.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-99": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-100": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-101": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-66": {
+            "host": "fish-server-memdb-<DB_ENV>-67.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-67": {
+            "host": "fish-server-memdb-<DB_ENV>-67.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-66": {
+            "host": "fish-server-memdb-<DB_ENV>-68.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-67": {
+            "host": "fish-server-memdb-<DB_ENV>-68.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-102": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-103": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-104": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-68": {
+            "host": "fish-server-memdb-<DB_ENV>-69.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-69": {
+            "host": "fish-server-memdb-<DB_ENV>-69.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-68": {
+            "host": "fish-server-memdb-<DB_ENV>-70.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-69": {
+            "host": "fish-server-memdb-<DB_ENV>-70.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-105": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-106": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-107": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-70": {
+            "host": "fish-server-memdb-<DB_ENV>-71.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-71": {
+            "host": "fish-server-memdb-<DB_ENV>-71.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-70": {
+            "host": "fish-server-memdb-<DB_ENV>-72.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-71": {
+            "host": "fish-server-memdb-<DB_ENV>-72.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-108": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-109": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-110": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-72": {
+            "host": "fish-server-memdb-<DB_ENV>-73.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-73": {
+            "host": "fish-server-memdb-<DB_ENV>-73.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-72": {
+            "host": "fish-server-memdb-<DB_ENV>-74.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-73": {
+            "host": "fish-server-memdb-<DB_ENV>-74.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-111": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-112": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-113": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-74": {
+            "host": "fish-server-memdb-<DB_ENV>-75.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-75": {
+            "host": "fish-server-memdb-<DB_ENV>-75.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-74": {
+            "host": "fish-server-memdb-<DB_ENV>-76.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-75": {
+            "host": "fish-server-memdb-<DB_ENV>-76.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-114": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-115": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-116": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-76": {
+            "host": "fish-server-memdb-<DB_ENV>-77.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-77": {
+            "host": "fish-server-memdb-<DB_ENV>-77.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-76": {
+            "host": "fish-server-memdb-<DB_ENV>-78.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-77": {
+            "host": "fish-server-memdb-<DB_ENV>-78.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-117": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-118": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "connector-server-119": {
+            "host": "fish-server-memdb-<DB_ENV>-0.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-78": {
+            "host": "fish-server-memdb-<DB_ENV>-79.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunter-server-79": {
+            "host": "fish-server-memdb-<DB_ENV>-79.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-78": {
+            "host": "fish-server-memdb-<DB_ENV>-80.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        },
+        "fishHunterBackend-server-79": {
+            "host": "fish-server-memdb-<DB_ENV>-80.fish-server-memdb-<DB_ENV>-ss-svc.default.svc.cluster.local",
+            "port": "52127"
+        }
+    },
+    "backend": {
+        "engine": "mongodb",
+        "url": "mongodb://mongodb9999:27017/fishHunter"
+    },
+    "maxPendingTask": 10000,
+    "maxConnection": 100
+}

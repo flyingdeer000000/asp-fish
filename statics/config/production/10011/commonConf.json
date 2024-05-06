@@ -1,0 +1,30 @@
+{
+  "autoplayList":
+    [ "Fish_000", "Fish_001", "Fish_002", "Fish_003", "Fish_004", "Fish_005", "Fish_006", "Fish_007", "Fish_008", "Fish_009", "Fish_010",
+      "Fish_011", "Fish_012", "Fish_013", "Fish_014", "Fish_015", "Fish_016", "Fish_017", "Fish_018", "Fish_019", "Fish_020", "Fish_021",
+      "Fish_022", "Fish_023", "Fish_024",
+      "Fish_100", "Fish_101", "Fish_102", "Fish_103", "Fish_104", "Fish_105", "Fish_106",
+      "Fish_301", "Fish_302"
+    ],
+  "BroadcastHighOdds": 200,
+  "speed": {
+    "//子彈飛行速度": 0,
+    "bulletFly": {
+      "normalBulletSpeed": 1500,
+      "RedBulletSpeed": 1500,
+      "BlueBulletSpeed": 1500,
+      "PurpleBulletSpeed": 0
+    },
+    "//子彈發射速度": 0,
+    "fire": {
+      "normalFireSpeed": 250,
+      "RedFireSpeed": 250,
+      "BlueFireSpeed": 250,
+      "PurpleFireSpeed": 250,
+      "autoFireSpeed": 250,
+      "autoRedFireSpeed": 250,
+      "autoBlueFireSpeed": 250,
+      "autoPurpleFireSpeed": 250
+    }
+  }
+}

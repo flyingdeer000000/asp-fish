@@ -1,0 +1,41 @@
+{
+    "flockScenario": {
+        "runMode": "normal",
+        "scenes": [{
+            "id": "FS_1-3_o1",
+            "time": 3,
+            "alive": 70,
+            "fid": 1
+        }, {
+            "id": "FS_1-1_w1",
+            "time": 10.2,
+            "alive": 30,
+            "fid": 2
+        }, {
+            "id": "FS_1-1_w2",
+            "time": 20.2,
+            "alive": 30,
+            "fid": 3
+        }, {
+            "id": "FS_1-1_w3",
+            "time": 30.2,
+            "alive": 30,
+            "fid": 4
+        }, {
+            "id": "FS_1-1_w4",
+            "time": 40.2,
+            "alive": 30,
+            "fid": 5
+        }, {
+            "id": "FS_1-1_w5",
+            "time": 50.2,
+            "alive": 30,
+            "fid": 6
+        }, {
+            "id": "FS_1-1_w6",
+            "time": 60.2,
+            "alive": 30,
+            "fid": 7
+        }]
+    }
+}

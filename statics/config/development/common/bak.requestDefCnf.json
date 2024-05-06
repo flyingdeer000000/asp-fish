@@ -1,0 +1,128 @@
+{
+  "twLogin" : {
+    "lockKey": "twLogin:Lock_",
+    "lockTime": 60,
+    "redisKey": "twLogin:",
+    "TTL": 60,
+    "requestCount": 60
+  },
+  "fetchBalance" : {
+    "lockKey": "fetchBalance:Lock_",
+    "lockTime": 60,
+    "redisKey": "fetchBalance:",
+    "TTL": 60,
+    "requestCount": 60
+  },
+  "changeBet" : {
+    "lockKey": "changeBet:Lock_",
+    "lockTime": 30,
+    "redisKey": "changeBet:",
+    "TTL": 60,
+    "requestCount": 60
+  },
+  "exchange" : {
+    "lockKey": "exchange:Lock_",
+    "lockTime": 60,
+    "redisKey": "exchange:",
+    "TTL": 10,
+    "requestCount": 10
+  },
+  "searchTable" : {
+    "lockKey": "searchTable:Lock_",
+    "lockTime": 60,
+    "redisKey": "searchTable:",
+    "TTL": 10,
+    "requestCount": 10
+  },
+  "sitDown" : {
+    "lockKey": "sitDown:Lock_",
+    "lockTime": 60,
+    "redisKey": "sitDown:",
+    "TTL": 10,
+    "requestCount": 10
+  },
+  "onFire" : {
+    "lockKey": "onFire:Lock_",
+    "lockTime": 60,
+    "redisKey": "onFire:",
+    "TTL": 60,
+    "requestCount": 1200
+  },
+  "onCollider" : {
+    "lockKey": "onCollider:Lock_",
+    "lockTime": 60,
+    "redisKey": "onCollider:",
+    "TTL": 60,
+    "requestCount": 1200
+  },
+  "onPushChat" : {
+    "lockKey": "onPushChat:Lock_",
+    "lockTime": 30,
+    "redisKey": "onPushChat:",
+    "TTL": 10,
+    "requestCount": 10
+  },
+  "quitGame" : {
+    "lockKey": "quitGame:Lock_",
+    "lockTime": 60,
+    "redisKey": "quitGame:",
+    "TTL": 10,
+    "requestCount": 10
+  },
+  "cancelFire" : {
+    "lockKey": "cancelFire:Lock_",
+    "lockTime": 60,
+    "redisKey": "cancelFire:",
+    "TTL": 60,
+    "requestCount": 600
+  },
+  "onBornFish" : {
+    "lockKey": "onBornFish:Lock_",
+    "lockTime": 60,
+    "redisKey": "onBornFish:",
+    "TTL": 5,
+    "requestCount": 30
+  },
+  "onKillFirst" : {
+    "lockKey": "onKillFirst:Lock_",
+    "lockTime": 60,
+    "redisKey": "onKillFirst:",
+    "TTL": 10,
+    "requestCount": 10
+  },
+  "onNoDiefirst" : {
+    "lockKey": "onNoDiefirst:Lock_",
+    "lockTime": 60,
+    "redisKey": "onNoDiefirst:",
+    "TTL": 10,
+    "requestCount": 10
+  },
+  "onPickLuckyDraw" : {
+    "lockKey": "onPickLuckyDraw:Lock_",
+    "lockTime": 60,
+    "redisKey": "onPickLuckyDraw:",
+    "TTL": 10,
+    "requestCount": 10
+  },
+  "onUpdatePosition" : {
+    "lockKey": "onUpdatePosition:Lock_",
+    "lockTime": 60,
+    "redisKey": "onUpdatePosition:",
+    "TTL": 60,
+    "requestCount": 900
+  },
+  "transition" : {
+    "lockKey": "transition:Lock_",
+    "lockTime": 60,
+    "redisKey": "transition:",
+    "TTL": 5,
+    "requestCount": 30
+  },
+  "onExtraBet" : {
+    "lockKey": "onExtraBet:Lock_",
+    "lockTime": 60,
+    "redisKey": "onExtraBet:",
+    "TTL": 60,
+    "requestCount": 60
+  }
+}

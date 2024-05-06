@@ -1,0 +1,70 @@
+{
+  "rcServers": {
+    "master":"fishHunterRC-server-0",
+    "checkInterval":30,
+    "timeout":10,
+    "riskControlTime":30,
+    "count":5,
+    "keepNormalTime":30,
+    "levels":{
+      "common":{
+        "//": "98%遊戲使用",
+        "global":[{"rtpMin":0,"rtpMax":0.97,"label":"easy"},{"rtpMin":0.97,"rtpMax":0.98,"label":"normal"},{"rtpMin":0.98,"rtpMax":10,"label":"hard"}],
+        "1"     :[{"rtpMin":0,"rtpMax":0.97,"label":"easy"},{"rtpMin":0.97,"rtpMax":0.98,"label":"normal"},{"rtpMin":0.98,"rtpMax":10,"label":"hard"}],
+        "2"     :[{"rtpMin":0,"rtpMax":0.97,"label":"easy"},{"rtpMin":0.97,"rtpMax":0.98,"label":"normal"},{"rtpMin":0.98,"rtpMax":10,"label":"hard"}],
+        "3"     :[{"rtpMin":0,"rtpMax":0.97,"label":"easy"},{"rtpMin":0.97,"rtpMax":0.98,"label":"normal"},{"rtpMin":0.98,"rtpMax":10,"label":"hard"}]
+      },
+      "10004":{
+        "//": "96%遊戲使用",
+        "global":[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}],
+        "1"     :[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}],
+        "2"     :[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}],
+        "3"     :[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}]
+      },
+      "10005":{
+        "//": "96%遊戲使用",
+        "global":[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}],
+        "1"     :[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}],
+        "2"     :[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}],
+        "3"     :[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}]
+      },
+      "10006":{
+        "//": "96%遊戲使用",
+        "global":[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}],
+        "1"     :[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}],
+        "2"     :[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}],
+        "3"     :[{"rtpMin":0,"rtpMax":0.95,"label":"easy"},{"rtpMin":0.95,"rtpMax":0.96,"label":"normal"},{"rtpMin":0.96,"rtpMax":10,"label":"hard"}]
+      }
+    },
+    "limit":{
+      "common":{
+        "//": "98%遊戲使用",
+        "global":[{"rtpLimit":0.99,"oddsLimit":50},{"rtpLimit":1,"oddsLimit":15}],
+        "1"     :[{"rtpLimit":0.99,"oddsLimit":50},{"rtpLimit":1,"oddsLimit":15}],
+        "2"     :[{"rtpLimit":0.99,"oddsLimit":50},{"rtpLimit":1,"oddsLimit":15}],
+        "3"     :[{"rtpLimit":0.99,"oddsLimit":50},{"rtpLimit":1,"oddsLimit":15}]
+      },
+      "10004":{
+        "//": "96%遊戲使用",
+        "global":[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}],
+        "1"     :[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}],
+        "2"     :[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}],
+        "3"     :[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}]
+      },
+      "10005":{
+        "//": "96%遊戲使用",
+        "global":[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}],
+        "1"     :[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}],
+        "2"     :[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}],
+        "3"     :[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}]
+      },
+      "10006":{
+        "//": "96%遊戲使用",
+        "global":[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}],
+        "1"     :[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}],
+        "2"     :[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}],
+        "3"     :[{"rtpLimit":0.97,"oddsLimit":50},{"rtpLimit":0.99,"oddsLimit":15}]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+    "shards": {
+        "connector-server-1": {
+            "host": "127.0.0.1",
+            "port": 52127
+        },
+        "connector-server-2": {
+            "host": "127.0.0.1",
+            "port": 52128
+        },
+        "connector-server-3": {
+            "host": "127.0.0.1",
+            "port": 52129
+        },
+        "webconnector-server-1": {
+            "host": "127.0.0.1",
+            "port": 52127
+        },
+        "webconnector-server-2": {
+            "host": "127.0.0.1",
+            "port": 52128
+        },
+        "fishHunter-server-1": {
+            "host": "127.0.0.1",
+            "port": 52127
+        },
+        "fishHunter-server-2": {
+            "host": "127.0.0.1",
+            "port": 52128
+        },
+        "fishHunter-server-3": {
+            "host": "127.0.0.1",
+            "port": 52129
+        },
+        "fishHunterBackend-server-1": {
+            "host": "127.0.0.1",
+            "port": 52127
+        },
+        "fishHunterBackend-server-2": {
+            "host": "127.0.0.1",
+            "port": 52128
+        },
+        "fishHunterBackend-server-3": {
+            "host": "127.0.0.1",
+            "port": 52129
+        },
+        "fishHunterBackend-server-4": {
+            "host": "127.0.0.1",
+            "port": 52129
+        },
+        "logger-server-1": {
+            "host": "127.0.0.1",
+            "port": 52127
+        },
+        "http-server-1": {
+            "host": "127.0.0.1",
+            "port": 52127
+        },
+        "fishHunterRC-server-1": {
+          "host": "127.0.0.1",
+          "port": 52127
+        }
+    },
+    "backend": {
+        "engine": "mongodb",
+        "url": "mongodb://127.0.0.1:37017/fishHunter"
+    },
+    "maxPendingTask": 10000,
+    "maxConnection": 100
+}

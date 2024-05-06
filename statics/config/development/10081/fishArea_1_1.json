@@ -1,0 +1,58 @@
+{
+  "fish": {
+    "spawn": {
+      "soloFish": [
+        {"prob": 10, "id": "Fish_000"},
+        {"prob": 10, "id": "Fish_001"},
+        {"prob": 10, "id": "Fish_002"},
+        {"prob": 10, "id": "Fish_003"},
+        {"prob": 10, "id": "Fish_004"},
+        {"prob": 10, "id": "Fish_005"},
+        {"prob": 10, "id": "Fish_006"},
+        {"prob": 10, "id": "Fish_007"},
+        {"prob": 10, "id": "Fish_008"},
+        {"prob": 10, "id": "Fish_009"},
+        {"prob": 10, "id": "Fish_010"},
+        {"prob": 10, "id": "Fish_011"},
+        {"prob": 10, "id": "Fish_012"},
+        {"prob": 10, "id": "Fish_013"},
+        {"prob": 10, "id": "Fish_014"},
+        {"prob": 10, "id": "Fish_015"},
+        {"prob": 10, "id": "Fish_016"},
+        {"prob": 10, "id": "Fish_018"},
+        {"prob": 10, "id": "Fish_019"}
+      ],
+      "typeBombFish": [
+        {"prob": 10, "id": "Fish_000"},
+        {"prob": 10, "id": "Fish_001"},
+        {"prob": 10, "id": "Fish_002"},
+        {"prob": 10, "id": "Fish_003"},
+        {"prob": 10, "id": "Fish_004"},
+        {"prob": 10, "id": "Fish_005"},
+        {"prob": 10, "id": "Fish_006"},
+        {"prob": 10, "id": "Fish_007"},
+        {"prob": 10, "id": "Fish_008"},
+        {"prob": 10, "id": "Fish_009"}
+      ],
+      "chainFish": [
+        {"prob": 10, "id": "Fish_000"},
+        {"prob": 10, "id": "Fish_001"},
+        {"prob": 10, "id": "Fish_002"},
+        {"prob": 10, "id": "Fish_003"},
+        {"prob": 10, "id": "Fish_004"},
+        {"prob": 10, "id": "Fish_005"},
+        {"prob": 10, "id": "Fish_006"},
+        {"prob": 10, "id": "Fish_007"},
+        {"prob": 10, "id": "Fish_008"},
+        {"prob": 10, "id": "Fish_009"}
+      ]
+    }
+  },
+  "scene": {
+    "CHANGE_SCENE_TIME_WAIT": 3000,
+    "CHANGE_SCENE_TIME_DELAY": 300000,
+    "NORMAL_FISH_TIME_DELAY": -1,
+    "FLOCK_SCENARIO_TIME_DELAY": 0,
+    "PAUSE_SCREEN_TIME_DELAY":6000
+  }
+}

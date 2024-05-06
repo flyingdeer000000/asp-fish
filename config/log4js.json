@@ -1,0 +1,338 @@
+{
+  "appenders": [
+    {
+      "type": "console"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/con-log-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "con-log"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/rpc-log-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "rpc-log"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/rpc-debug-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "rpc-debug"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/forward-log-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "forward-log"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/crash-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "crash-log"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/pomelo-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "pomelo"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/pomelo-admin-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "pomelo-admin"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/admin-log-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "admin-log"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/pomelo-rpc-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "pomelo-rpc"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/memdb-client-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "memdb-client"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/connector-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "connector"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/gameserver-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "gameserver"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/route-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "route"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/push-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "push"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/timer-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "timer"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/counter-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "counter"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/dev-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "dev"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/pva-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "pva"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/fishrc-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "fishrc"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/transaction-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "transaction"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/test-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "test"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/wallet-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "wallet"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/fire-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "fire"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/client-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "client"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/server-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "server"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/handler-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "handler"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/dao-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "dao"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/area-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "area"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/apiPlatform-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "apiPlatform"
+    },
+    {
+      "type": "dateFile",
+      "filename": "${opts:base}/logs/extraBet-${opts:serverId}.log",
+      "pattern": "-yyyyMMdd",
+      "layout": {
+        "type": "basic"
+      },
+      "backups": 5,
+      "category": "extraBet"
+    }
+  ],
+  "levels": {
+    "connector": "info",
+    "gameserver": "info",
+    "pomelo-admin": "error",
+    "pomelo": "warn",
+    "admin-log": "error",
+    "con-log": "error",
+    "memdb-client": "error",
+    "counter": "error",
+    "route": "error",
+    "dev": "error",
+    "pva": "error",
+    "fishrc": "info",
+    "pomelo-rpc" : "error",
+    "forward-log": "error",
+    "rpc-debug": "error",
+    "transaction ": "error",
+    "test": "error",
+    "wallet": "info",
+    "fire": "info",
+    "client": "info",
+    "server": "info",
+    "handler": "info",
+    "dao": "info",
+    "area": "info",
+    "apiPlatform": "warn",
+    "extraBet": "info"
+  },
+  "replaceConsole": true,
+  "lineDebug": true,
+  "reloadSecs": 30
+}

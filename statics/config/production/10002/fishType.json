@@ -1,0 +1,200 @@
+{
+"AllFish": {
+"Fish_000":{"OnKillDisappear": true}
+,"Fish_001":{"OnKillDisappear": true}
+,"Fish_002":{"OnKillDisappear": true}
+,"Fish_003":{"OnKillDisappear": true}
+,"Fish_004":{"OnKillDisappear": true}
+,"Fish_005":{"OnKillDisappear": true}
+,"Fish_006":{"OnKillDisappear": true}
+,"Fish_007":{"OnKillDisappear": true}
+,"Fish_008":{"OnKillDisappear": true}
+,"Fish_009":{"OnKillDisappear": true}
+,"Fish_010":{"OnKillDisappear": true}
+,"Fish_011":{"OnKillDisappear": true}
+,"Fish_012":{"OnKillDisappear": true}
+,"Fish_013":{"OnKillDisappear": true}
+,"Fish_014":{"OnKillDisappear": true}
+,"Fish_015":{"OnKillDisappear": true}
+,"Fish_016":{"OnKillDisappear": true}
+,"Fish_017":{"OnKillDisappear": true}
+,"Fish_018":{"OnKillDisappear": true}
+,"Fish_019":{"OnKillDisappear": true}
+,"Fish_020":{"OnKillDisappear": true, "extraBonus": true}
+
+
+,"Fish_100":{"OnKillDisappear": true}
+,"Fish_101":{"OnKillDisappear": false, "reincarnation": "Fish_102"}
+,"Fish_102":{"OnKillDisappear": false, "reincarnation": "Fish_103"}
+,"Fish_103":{"OnKillDisappear": false, "reincarnation": "Fish_104"}
+,"Fish_104":{"OnKillDisappear": false, "reincarnation": "Fish_105"}
+,"Fish_105":{"OnKillDisappear": false, "reincarnation": "Fish_020"}
+,"Fish_106":{"OnKillDisappear": false}
+,"Fish_201":{"OnKillDisappear": true}
+,"Fish_202":{"OnKillDisappear": true}
+
+,"Fish_300":{"OnKillDisappear": false}
+,"Fish_301":{"OnKillDisappear": true}
+,"Fish_302":{"OnKillDisappear": true}
+,"Fish_303":{"OnKillDisappear": true}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+,"NoDieBonus": "Fish_201"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
